@@ -207,7 +207,7 @@
 
   "properties": [
     {
-      "id": 1,
+      "id": "namma-woodland",
       "name": "Namma Woodland",
       "description": "Indulge in luxury at Namma Woodland Villa, Bangalore. Terrace with golf course views for gatherings. Living Area for larger groups, leather sofas included. Stylish Dining Area for fine dining. Cedar Master Bedroom offers golf course view and French Windows. Maple Suite balances comfort and work space. Ebony Suite boasts a queen-sized bed and lavish bathtub. Teakwood-crafted interiors, conveniently located between Indiranagar and Koramangala near EGL and Dell office.",
       "noOfGuests": 10,
@@ -594,7 +594,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "vintage-haven",
       "name": "Vintage Haven",
       "description": "Vintage Haven at Spacez: Sophisticated rooms like Ivory's regal bed, Emerald's cozy workspace, Amber's sunlit allure, Sapphire's productivity promise, and Scarlet's private terrace. The Terrace room is a vintage symphony with lush greenery. Conveniently near Indiranagar Metro, it's not just a stay but a commitment to refined living. Book now and embrace elegance.",
       "noOfGuests": 10,
@@ -873,7 +873,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "cascade-castle",
       "name": "Cascade Castle",
       "description": "Discover Cascade Castle, a hidden gem in the heart of Koramangala, Bangalore. This stunning house features a serene indoor pond where you can relax and dip your feet in the water, offering a unique touch of tranquility. The grand halls of Cascade Castle provide an elegant space for gatherings, accommodating up to 18 guests comfortably. Can enjoy a private terrace, perfect for relaxing and taking in the views. For entertainment, the castle includes a private theater, ideal for movie nights with friends and family. With a variety of modern amenities, including high-speed internet and a fully equipped kitchen, your stay will be both luxurious and convenient. Located in a vibrant neighborhood with plenty of dining, shopping and entertainment options, Cascade Castle is the perfect blend of comfort and luxury. Book your stay today and experience the unique charm of this beautiful home.",
       "noOfGuests": 18,
@@ -946,7 +946,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "urban-escape",
       "name": "Urban Escape",
       "description": "Urban Escape is a luxurious corner house with spacious interiors and stunning park views. Enjoy impeccable cleanliness and attentive caretakers for a comfortable stay. Explore nearby attractions like the Beer Library and Koramangala Club or indulge in all states culinary delights along Koramangala Club Street. Relax and unwind in luxury at Urban Escape.",
       "noOfGuests": 12,
@@ -1303,7 +1303,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "house-of-2-trees",
       "name": "House of 2 Trees",
       "description": "Welcome to the House of 2 Trees Villa, a charming 4-bedroom independent villa nestled beneath two majestic trees. With attached washrooms in each bedroom, a modern modular kitchen, utility area, washing machines, and a fridge this home combines convenience and comfort effortlessly. Located 1 road parallel to 100 ft road Indiranagar in the vibrant core of Bangalore, House of 2 Trees offers a serene retreat with urban connectivity.",
       "noOfGuests": 8,
@@ -1572,7 +1572,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "palm-paradise",
       "name": "Palm Paradise",
       "description": "A luxurious 4-bedroom villa with a serene garden entrance, elegant interiors, modern amenities like high-speed and a fully equipped kitchen. Includes a dedicated workspace, terrace with garden views, free Wi-Fi, parking and BBQ grill. Perfectly located for tranquility and accessibility.",
       "noOfGuests": 12,
@@ -1883,7 +1883,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "jugglers-rest",
       "name": "Jugglers Rest",
       "description": "Nestled in the bustling heart of Indiranagar, Jugglers Rest is more than accommodation; it's an immersion into Bangalore's vibrant essence. Discover comfort in our cozy dorms or stylish rooms with ensuite bathrooms. The lounge invites social connections, while the rooftop terrace beckons with scenic views for a tranquil escape. This boutique property ensures a seamless blend of comfort and allure, making your Bangalore stay truly extraordinary. Welcome to Jugglers Rest!",
       "noOfGuests": 12,
@@ -2170,7 +2170,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "sunflower-skyline",
       "name": "Sunflower Skyline",
       "description": "Indulge in simplicity at Sunflower Skyline, a tranquil 2 BHK penthouse in the heart of the city. This golden escape features a scenic terrace garden, adorned with swaying sunflowers, offering a serene stay. The inviting interior, blending shades of yellow and grey, creates a cozy atmosphere in each bedroom. The spacious terrace, complemented by patio furniture, serves as an ideal spot to unwind.",
       "noOfGuests": 4,
