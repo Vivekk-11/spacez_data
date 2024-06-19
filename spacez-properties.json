@@ -220,6 +220,7 @@
       "mapCoordinates": "12.955102088623399, 77.64338403154552",
       "address": "No 249, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "location": "Domlur, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "golf-course-view",
         "bathtub",
@@ -606,6 +607,7 @@
       "mapCoordinates": "12.980896435344464, 77.63837315040129",
       "address": "87, 11th Cross Rd, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -884,6 +886,7 @@
       "mapCoordinates": "12.92852893640997, 77.62242597340452",
       "address": "637, 4th Cross Rd, 3rd Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034",
       "location": "Koramangala, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -956,6 +959,7 @@
       "mapCoordinates": "12.938185630566156, 77.62508582559421",
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1312,6 +1316,7 @@
       "mapCoordinates": "12.972910548841337, 77.63997443015226",
       "address": "1063, 2nd Cross, 6th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1580,6 +1585,7 @@
       "mapCoordinates": "12.9869835, 77.6452394",
       "address": "6, 2nd Cross Rd, New Baiyyappanahalli Extension, Anchappa Garden, Old Byappanahalli, Bengaluru, Karnataka 560006",
       "location": "Old Byappanahalli, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1890,6 +1896,7 @@
       "mapCoordinates": "12.97790108149889, 77.63453005091306",
       "address": "62/1, 9th Main Rd, Stage 2, Eshwara Layout, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -2176,6 +2183,7 @@
       "mapCoordinates": "12.938181244850899, 77.62506007131547",
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
+      "city": "Bengaluru",
       "amenities": [
         "bathtub",
         "hair-dryer",
