@@ -1,4 +1,19 @@
 {
+  "general": {
+    "tcLink": "savingz.in/terms-and-conditions",
+    "contactCall": "+919380834941",
+    "contactWp": "+919380834941",
+    "contactMail": "hello@spacez.co",
+    "conciergeFaqs": [
+      "How long does it take to clear a pending reservation?",
+      "How long does it take to clear a pending reservation?"
+    ],
+    "profileFaqs": [
+      "How long does it take to clear a pending reservation?",
+      "How long does it take to clear a pending reservation?"
+    ]
+  },
+
   "amenities": [
     {
       "id": "golf-course-view",
@@ -271,6 +286,7 @@
   "properties": [
     {
       "id": "namma-woodland",
+      "propertyId": "NWNW05",
       "name": "Namma Woodland",
       "type": "Villa",
       "description": "Indulge in luxury at Namma Woodland Villa, Bangalore. Terrace with golf course views for gatherings. Living Area for larger groups, leather sofas included. Stylish Dining Area for fine dining. Cedar Master Bedroom offers golf course view and French Windows. Maple Suite balances comfort and work space. Ebony Suite boasts a queen-sized bed and lavish bathtub. Teakwood-crafted interiors, conveniently located between Indiranagar and Koramangala near EGL and Dell office.",
@@ -282,10 +298,27 @@
       "price": "1,000",
       "locationDescription": "Domlur, a bustling locality in Bangalore, India, is known for its strategic location, housing IT parks like Embassy Golf Links, and vibrant residential areas. It's well-connected and features popular landmarks like the Domlur Flyover and Shiva Temple.",
       "mapCoordinates": "12.955102088623399, 77.64338403154552",
+      "lat": 12.955102088623399,
+      "lng": 77.64338403154552,
       "address": "No 249, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "location": "Domlur, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/namma_woodland_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "golf-course-view",
         "bathtub",
@@ -669,6 +702,7 @@
     },
     {
       "id": "vintage-haven",
+      "propertyId": "VHVH06",
       "name": "Vintage Haven",
       "type": "Villa",
       "description": "Vintage Haven at Spacez: Sophisticated rooms like Ivory's regal bed, Emerald's cozy workspace, Amber's sunlit allure, Sapphire's productivity promise, and Scarlet's private terrace. The Terrace room is a vintage symphony with lush greenery. Conveniently near Indiranagar Metro, it's not just a stay but a commitment to refined living. Book now and embrace elegance.",
@@ -680,10 +714,27 @@
       "price": "1,000",
       "locationDescription": "Indiranagar, a lively neighborhood in Bangalore, India, is renowned for its upscale residential areas, trendy cafes, boutiques, and vibrant nightlife. Well-connected and cosmopolitan, it also houses significant commercial hubs and cultural spots, making it a popular destination.",
       "mapCoordinates": "12.980896435344464, 77.63837315040129",
+      "lat": 12.980896435344464,
+      "lng": 77.63837315040129,
       "address": "87, 11th Cross Rd, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/vintage_haven_5bhk_villa_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -957,6 +1008,7 @@
     },
     {
       "id": "cascade-castle",
+      "propertyId": "CCCC05",
       "name": "Cascade Castle",
       "type": "Villa",
       "description": "Discover Cascade Castle, a hidden gem in the heart of Koramangala, Bangalore. This stunning house features a serene indoor pond where you can relax and dip your feet in the water, offering a unique touch of tranquility. The grand halls of Cascade Castle provide an elegant space for gatherings, accommodating up to 18 guests comfortably. Can enjoy a private terrace, perfect for relaxing and taking in the views. For entertainment, the castle includes a private theater, ideal for movie nights with friends and family. With a variety of modern amenities, including high-speed internet and a fully equipped kitchen, your stay will be both luxurious and convenient. Located in a vibrant neighborhood with plenty of dining, shopping and entertainment options, Cascade Castle is the perfect blend of comfort and luxury. Book your stay today and experience the unique charm of this beautiful home.",
@@ -968,10 +1020,27 @@
       "price": "1,000",
       "locationDescription": "Koramangala, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
       "mapCoordinates": "12.92852893640997, 77.62242597340452",
+      "lat": 12.92852893640997,
+      "lng": 77.62242597340452,
       "address": "637, 4th Cross Rd, 3rd Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.airbnb.ca/rooms/1161656574974490469?source_impression_id=p3_1718889104_P3LvPniqvho0SdiL",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1041,6 +1110,7 @@
     },
     {
       "id": "urban-escape",
+      "propertyId": "UEUE05",
       "name": "Urban Escape",
       "type": "Villa",
       "description": "Urban Escape is a luxurious corner house with spacious interiors and stunning park views. Enjoy impeccable cleanliness and attentive caretakers for a comfortable stay. Explore nearby attractions like the Beer Library and Koramangala Club or indulge in all states culinary delights along Koramangala Club Street. Relax and unwind in luxury at Urban Escape.",
@@ -1052,10 +1122,27 @@
       "price": "1,000",
       "locationDescription": "Koramangala, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
       "mapCoordinates": "12.938185630566156, 77.62508582559421",
+      "lat": 12.938185630566156,
+      "lng": 77.62508582559421,
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/urban_escape_duplex_villa_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1409,6 +1496,7 @@
     },
     {
       "id": "house-of-2-trees",
+      "propertyId": "HOTHOT01",
       "name": "House of 2 Trees",
       "type": "Villa",
       "description": "Welcome to the House of 2 Trees Villa, a charming 4-bedroom independent villa nestled beneath two majestic trees. With attached washrooms in each bedroom, a modern modular kitchen, utility area, washing machines, and a fridge this home combines convenience and comfort effortlessly. Located 1 road parallel to 100 ft road Indiranagar in the vibrant core of Bangalore, House of 2 Trees offers a serene retreat with urban connectivity.",
@@ -1420,10 +1508,27 @@
       "price": "1,000",
       "locationDescription": "Indiranagar, a lively neighborhood in Bangalore, India, is renowned for its upscale residential areas, trendy cafes, boutiques, and vibrant nightlife. Well-connected and cosmopolitan, it also houses significant commercial hubs and cultural spots, making it a popular destination.",
       "mapCoordinates": "12.972910548841337, 77.63997443015226",
+      "lat": 12.972910548841337,
+      "lng": 77.63997443015226,
       "address": "1063, 2nd Cross, 6th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/house_of_2_trees_4bhk-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -1687,6 +1792,7 @@
     },
     {
       "id": "palm-paradise",
+      "propertyId": "PPPP05",
       "name": "Palm Paradise",
       "type": "Villa",
       "description": "A luxurious 4-bedroom villa with a serene garden entrance, elegant interiors, modern amenities like high-speed and a fully equipped kitchen. Includes a dedicated workspace, terrace with garden views, free Wi-Fi, parking and BBQ grill. Perfectly located for tranquility and accessibility.",
@@ -1698,10 +1804,27 @@
       "price": "1,000",
       "locationDescription": "Old Byappanahalli, located in Bangalore, India, is a historic area known for its residential neighborhoods and proximity to key transport links like the Byappanahalli Metro Station and Railway Terminal. It offers a mix of traditional charm and urban connectivity.",
       "mapCoordinates": "12.9869835, 77.6452394",
+      "lat": 12.9869835,
+      "lng": 77.6452394,
       "address": "6, 2nd Cross Rd, New Baiyyappanahalli Extension, Anchappa Garden, Old Byappanahalli, Bengaluru, Karnataka 560006",
       "location": "Old Byappanahalli, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.airbnb.co.in/rooms/1137335798551532348?source_impression_id=p3_1718888876_P3l0E2hwBlpwpftJ",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -2007,6 +2130,7 @@
     },
     {
       "id": "jugglers-rest",
+      "propertyId": "JRJR01",
       "name": "Jugglers Rest",
       "type": "Hostel",
       "description": "Nestled in the bustling heart of Indiranagar, Jugglers Rest is more than accommodation; it's an immersion into Bangalore's vibrant essence. Discover comfort in our cozy dorms or stylish rooms with ensuite bathrooms. The lounge invites social connections, while the rooftop terrace beckons with scenic views for a tranquil escape. This boutique property ensures a seamless blend of comfort and allure, making your Bangalore stay truly extraordinary. Welcome to Jugglers Rest!",
@@ -2018,10 +2142,27 @@
       "price": "1,000",
       "locationDescription": "Indiranagar, a lively neighborhood in Bangalore, India, is renowned for its upscale residential areas, trendy cafes, boutiques, and vibrant nightlife. Well-connected and cosmopolitan, it also houses significant commercial hubs and cultural spots, making it a popular destination.",
       "mapCoordinates": "12.97790108149889, 77.63453005091306",
+      "lat": 12.97790108149889,
+      "lng": 77.63453005091306,
       "address": "62/1, 9th Main Rd, Stage 2, Eshwara Layout, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/jugglers_rest_hostel_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
@@ -2297,6 +2438,7 @@
     },
     {
       "id": "sunflower-skyline",
+      "propertyId": "SSSS03",
       "name": "Sunflower Skyline",
       "type": "Villa",
       "description": "Indulge in simplicity at Sunflower Skyline, a tranquil 2 BHK penthouse in the heart of the city. This golden escape features a scenic terrace garden, adorned with swaying sunflowers, offering a serene stay. The inviting interior, blending shades of yellow and grey, creates a cozy atmosphere in each bedroom. The spacious terrace, complemented by patio furniture, serves as an ideal spot to unwind.",
@@ -2311,7 +2453,22 @@
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
       "amenities": [
         "bathtub",
         "hair-dryer",
