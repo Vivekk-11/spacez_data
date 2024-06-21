@@ -205,6 +205,69 @@
     }
   ],
 
+  "house-rules": [
+    {
+      "id": "check-in",
+      "category": "checkin-and-checkout",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953286/point_rkfc7j.png",
+      "label": "Check-in after 1:00 pm"
+    },
+    {
+      "id": "check-out",
+      "category": "checkin-and-checkout",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953286/logout_kgq9jo.png",
+      "label": "Checkout before 11:00 am"
+    },
+    {
+      "id": "self-check-in",
+      "category": "checkin-and-checkout",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953514/check-in_melc92.png",
+      "label": "Self check-in with building staff"
+    },
+    {
+      "id": "10-guests-maximum",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
+      "label": "10 guests maximum"
+    },
+    {
+      "id": "12-guests-maximum",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
+      "label": "12 guests maximum"
+    },
+    {
+      "id": "8-guests-maximum",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
+      "label": "8 guests maximum"
+    },
+    {
+      "id": "4-guests-maximum",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
+      "label": "4 guests maximum"
+    },
+    {
+      "id": "pets-allowed",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953614/paws_ccjvbi.png",
+      "label": "Pets allowed"
+    },
+    {
+      "id": "commercial-photography-allowed",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953688/camera_pafbx1.png",
+      "label": "Commercial photography allowed"
+    },
+    {
+      "id": "smoking-is-allowed",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953748/smoking_bymayo.png",
+      "label": "Smoking is allowed"
+    }
+  ],
+
   "properties": [
     {
       "id": "namma-woodland",
@@ -244,6 +307,15 @@
         "drying-rack",
         "iron",
         "extra-pillows"
+      ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "commercial-photography-allowed",
+        "smoking-is-allowed",
+        "10-guests-maximum"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355406/_SNF4488_final_f1djiz.webp",
       "heroImages": [
@@ -638,6 +710,13 @@
         "fire-extinguisher",
         "refrigerator"
       ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "10-guests-maximum",
+        "pets-allowed"
+      ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355124/_SNF3466_final_t3si7s.webp",
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355163/_SNF3346_final_wqilfe.webp",
@@ -919,6 +998,15 @@
         "refrigerator",
         "balcony"
       ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "commercial-photography-allowed",
+        "smoking-is-allowed",
+        "10-guests-maximum"
+      ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355013/filername__final_gkndfj.webp",
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355013/IMG-20240524-WA0011-01_final_srnakr.webp",
@@ -993,6 +1081,15 @@
         "refrigerator",
         "balcony",
         "garden"
+      ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "commercial-photography-allowed",
+        "smoking-is-allowed",
+        "12-guests-maximum"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355242/_SNF2763_final_zhjzo2.webp",
       "heroImages": [
@@ -1353,6 +1450,13 @@
         "refrigerator",
         "free-parking"
       ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "8-guests-maximum"
+      ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355057/DSC07606_final_eroavm.webp",
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355038/DSC07355_final_r2mex2.webp",
@@ -1623,6 +1727,13 @@
         "free-parking",
         "balcony",
         "garden"
+      ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "12-guests-maximum"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355079/DSC01772_final_xnbarf.webp",
       "heroImages": [
@@ -1937,6 +2048,7 @@
         "balcony",
         "garden"
       ],
+      "house-rules": ["check-in", "check-out", "self-check-in", "pets-allowed"],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355799/_SNF3120_final_r2ktk3.webp",
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355770/_SNF3186_final_ldwjbs.webp",
@@ -2225,6 +2337,13 @@
         "free-parking",
         "balcony",
         "garden"
+      ],
+      "house-rules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "4-guests-maximum"
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355180/image_1__final_zmy1ll.webp",
