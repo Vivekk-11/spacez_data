@@ -342,7 +342,7 @@
         "iron",
         "extra-pillows"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -763,7 +763,7 @@
         "fire-extinguisher",
         "refrigerator"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -1070,7 +1070,7 @@
         "refrigerator",
         "balcony"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -1173,7 +1173,7 @@
         "balcony",
         "garden"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -1560,7 +1560,7 @@
         "refrigerator",
         "free-parking"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -1857,7 +1857,7 @@
         "balcony",
         "garden"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
@@ -2196,7 +2196,7 @@
         "balcony",
         "garden"
       ],
-      "house-rules": ["check-in", "check-out", "self-check-in", "pets-allowed"],
+      "houseRules": ["check-in", "check-out", "self-check-in", "pets-allowed"],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355799/_SNF3120_final_r2ktk3.webp",
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355770/_SNF3186_final_ldwjbs.webp",
@@ -2503,7 +2503,7 @@
         "balcony",
         "garden"
       ],
-      "house-rules": [
+      "houseRules": [
         "check-in",
         "check-out",
         "self-check-in",
