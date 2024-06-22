@@ -17,6 +17,7 @@
   "amenities": [
     {
       "id": "golf-course-view",
+      "category": "scenic-views",
       "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718191299/golf-field_qdnrdx.png",
       "label": "Golf course view"
     },
@@ -2457,6 +2458,8 @@
       "price": "1,000",
       "locationDescription": "Koramangala, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
       "mapCoordinates": "12.938181244850899, 77.62506007131547",
+      "lat": 12.938181244850899,
+      "lng": 77.62506007131547,
       "isActive": true,
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
