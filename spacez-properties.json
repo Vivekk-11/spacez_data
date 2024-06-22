@@ -220,7 +220,7 @@
     }
   ],
 
-  "house-rules": [
+  "houseRules": [
     {
       "id": "check-in",
       "category": "checkin-and-checkout",
@@ -300,6 +300,7 @@
       "mapCoordinates": "12.955102088623399, 77.64338403154552",
       "lat": 12.955102088623399,
       "lng": 77.64338403154552,
+      "isActive": true,
       "address": "No 249, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "location": "Domlur, Bengaluru",
       "city": "Bengaluru",
@@ -716,6 +717,7 @@
       "mapCoordinates": "12.980896435344464, 77.63837315040129",
       "lat": 12.980896435344464,
       "lng": 77.63837315040129,
+      "isActive": true,
       "address": "87, 11th Cross Rd, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
@@ -1022,6 +1024,7 @@
       "mapCoordinates": "12.92852893640997, 77.62242597340452",
       "lat": 12.92852893640997,
       "lng": 77.62242597340452,
+      "isActive": true,
       "address": "637, 4th Cross Rd, 3rd Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
@@ -1124,6 +1127,7 @@
       "mapCoordinates": "12.938185630566156, 77.62508582559421",
       "lat": 12.938185630566156,
       "lng": 77.62508582559421,
+      "isActive": true,
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
@@ -1510,6 +1514,7 @@
       "mapCoordinates": "12.972910548841337, 77.63997443015226",
       "lat": 12.972910548841337,
       "lng": 77.63997443015226,
+      "isActive": true,
       "address": "1063, 2nd Cross, 6th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
@@ -1806,6 +1811,7 @@
       "mapCoordinates": "12.9869835, 77.6452394",
       "lat": 12.9869835,
       "lng": 77.6452394,
+      "isActive": true,
       "address": "6, 2nd Cross Rd, New Baiyyappanahalli Extension, Anchappa Garden, Old Byappanahalli, Bengaluru, Karnataka 560006",
       "location": "Old Byappanahalli, Bengaluru",
       "city": "Bengaluru",
@@ -2144,6 +2150,7 @@
       "mapCoordinates": "12.97790108149889, 77.63453005091306",
       "lat": 12.97790108149889,
       "lng": 77.63453005091306,
+      "isActive": true,
       "address": "62/1, 9th Main Rd, Stage 2, Eshwara Layout, Indiranagar, Bengaluru, Karnataka 560038",
       "location": "Indiranagar, Bengaluru",
       "city": "Bengaluru",
@@ -2450,6 +2457,7 @@
       "price": "1,000",
       "locationDescription": "Koramangala, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
       "mapCoordinates": "12.938181244850899, 77.62506007131547",
+      "isActive": true,
       "address": "529, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
       "location": "Koramangala, Bengaluru",
       "city": "Bengaluru",
