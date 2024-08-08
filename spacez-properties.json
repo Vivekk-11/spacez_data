@@ -218,6 +218,18 @@
       "category": "Outdoors",
       "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718265224/jade-plant_gqd382.png",
       "label": "Garden"
+    },
+    {
+      "id": "waterfront",
+      "category": "Location Features",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723020443/coast_1_mjx9rc.png",
+      "label": "Waterfront"
+    },
+    {
+      "id": "beachfront",
+      "category": "Location Features",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723023473/summer_1_zhdycq.png",
+      "label": "Beachfront"
     }
   ],
 
@@ -263,6 +275,12 @@
       "category": "stay",
       "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
       "label": "4 guests maximum"
+    },
+    {
+      "id": "6-guests-maximum",
+      "category": "stay",
+      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718953287/guests_lxz7p8.png",
+      "label": "6 guests maximum"
     },
     {
       "id": "pets-allowed",
@@ -2597,6 +2615,794 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352728/IMG_1438_final_ljwyms.webp",
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352727/IMG_1458_final_e0n7pq.webp",
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352727/20231025_173400-02_final_kago0f.webp"
+        ]
+      }
+    },
+    {
+      "id": "waterfall-manor",
+      "propertyId": "SSSS03",
+      "name": "Waterfall Manor",
+      "type": "Villa",
+      "description": "Experience luxury and tranquility at Waterfall Manor, a stunning villa in HSR Layout, Bangalore. This beautifully designed home features: 4 Luxurious & Spacious rooms with premium bedding and en-suite bathrooms, Large Halls with Ample seating for gatherings, Fully equipped modern kitchen and sophisticated dining area, Indoor garden with a serene waterfall feature, Charming patio with a park view on the terrace.",
+      "noOfGuests": 8,
+      "noOfBedrooms": 4,
+      "noOfBeds": 6,
+      "noOfBathrooms": 4,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "HSR Layout, a prominent suburb in Bangalore, India, is known for its well-planned infrastructure, residential neighborhoods, and thriving commercial spaces. It's a popular area with parks, schools, and diverse dining options, offering a balanced urban lifestyle.",
+      "mapCoordinates": "12.914148529262837, 77.63379327779482",
+      "lat": 12.914148529262837,
+      "lng": 77.63379327779482,
+      "isActive": true,
+      "address": "207, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+      "location": "HSR Layout, Bengaluru",
+      "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "waterfront",
+        "bathtub",
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "tv",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "security-camera",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking",
+        "balcony"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "8-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044992/SNF05122-MAIN_final_icmxdn.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044994/SNF05125-MAIN_final_kuthfj.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044997/SNF05101-MAIN_final_vjys45.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044990/SNF05131-MAIN_final_szec75.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044987/SNF05104-MAIN_final_xbiomz.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044984/SNF05092-MAIN_final_belunn.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044987/SNF05116-MAIN_final_w1ztr6.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044987/SNF05116-MAIN_final_w1ztr6.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044984/SNF05092-MAIN_final_belunn.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044998/SNF05095-MAIN_final_py9fit.webp",
+      "photos": {
+        "Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355264/IMG-20240529-WA0031_final_yhtulm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353734/IMG-20240529-WA0031_final_xe7gll.webp"
+        ],
+        "Dinning Room": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355264/IMG-20240529-WA0026_final_d1xjde.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353713/IMG-20240529-WA0026_final_pmqrpd.webp"
+        ],
+        "Living Room": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355263/IMG-20240529-WA0025_final_exehgk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355263/IMG-20240529-WA0030_final_e1qmdq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353690/IMG-20240529-WA0025_final_vhtuzo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353669/IMG-20240529-WA0030_final_pjx0cb.webp"
+        ],
+        "Master Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044998/SNF05095-MAIN_final_py9fit.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044997/SNF05101-MAIN_final_vjys45.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044996/SNF05107-MAIN_final_tp71zq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044994/SNF05125-MAIN_final_kuthfj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044993/SNF05098-MAIN_final_saemnk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044992/SNF05134-MAIN_final_eeque9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044992/SNF05110-MAIN_final_xuakzu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044992/SNF05122-MAIN_final_icmxdn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044990/SNF05131-MAIN_final_szec75.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044990/SNF05128-MAIN_final_riplqy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044989/SNF05119-MAIN_final_dzpm10.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044987/SNF05116-MAIN_final_w1ztr6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044987/SNF05104-MAIN_final_xbiomz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044984/SNF05092-MAIN_final_belunn.webp"
+        ],
+        "Outdoor": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355263/IMG-20240529-WA0027_final_nxoaik.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355262/IMG-20240529-WA0029_final_qyiowv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355261/IMG-20240529-WA0028_final_ah7fn6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353649/IMG-20240529-WA0027_final_ip97jy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353628/IMG-20240529-WA0029_final_msl2gt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1718353607/IMG-20240529-WA0028_final_rddep9.webp"
+        ],
+        "Room A": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045002/SNF05035-MAIN_final_trlgzv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045000/SNF05023-MAIN_final_tyv35i.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044999/SNF05014-MAIN_final_kxqhcf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044998/SNF05029-MAIN_final_vb8xkz.webp"
+        ],
+        "Room B": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045014/SNF05041-MAIN_final_bfhhtf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045013/SNF05071-MAIN_final_ws8khp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045012/SNF05053-MAIN_final_cxg9z6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045011/SNF05068-MAIN_final_wdlkxt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045010/SNF05050-MAIN_final_eqrcr6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045009/SNF05074-MAIN_final_mhl5vo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045008/SNF05077-MAIN_final_ehwcet.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045007/SNF05056-MAIN_final_repufx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045007/SNF05038-MAIN_final_ajzn7h.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045005/SNF05035-MAIN_final_snjcen.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045004/SNF05047-MAIN_final_yc8qz0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045003/SNF05029-MAIN_final_rhfvoe.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045002/SNF05032-MAIN_final_m0jwvy.webp"
+        ]
+      }
+    },
+    {
+      "id": "magnum-opus",
+      "propertyId": "SSSS03",
+      "name": "Magnum Opus",
+      "type": "Villa",
+      "description": "Magnum Opus is a luxury villa by Spacez with 5 bedrooms",
+      "noOfGuests": 10,
+      "noOfBedrooms": 5,
+      "noOfBeds": 5,
+      "noOfBathrooms": 5,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "Brookfield, a notable suburb in Bangalore, India, is known for its residential complexes and commercial hubs. Close to ITPL and major tech companies, it offers modern amenities, shopping centers, and well-developed infrastructure, making it a sought-after area.",
+      "mapCoordinates": "12.959167339260617, 77.71874228553092",
+      "lat": 12.959167339260617,
+      "lng": 77.71874228553092,
+      "isActive": true,
+      "address": "381, 8th Main Rd, 5th Cross, BEML Layout, Brookefield, Bengaluru, Karnataka 560066",
+      "location": "Brookefield, Bengaluru",
+      "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "bathtub",
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking",
+        "balcony"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "10-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355180/image_1__final_zmy1ll.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355178/IMG_1492_final_bywi3m.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355172/20231106_170237-01_final_hdtjt0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352731/image_6__final_qgmerj.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/image_9__final_ftjqys.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355174/IMG_1577_final_ztadx0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355181/IMG_1458_final_mupkzv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/20231106_171834-01_final_lvbosz.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355182/IMG_1438_final_dkjfgx.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355183/IMG_1074_final_tynkqg.webp",
+      "photos": {}
+    },
+    {
+      "id": "pearl-palace",
+      "propertyId": "SSSS03",
+      "name": "Pearl Palace",
+      "type": "Villa",
+      "description": "Spacez luxe villa in the heart of Mumbai located in Lokhandwala",
+      "noOfGuests": 8,
+      "noOfBedrooms": 4,
+      "noOfBeds": 5,
+      "noOfBathrooms": 5,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "Andheri West, a bustling suburb in Mumbai, India, is famous for its vibrant nightlife, shopping districts, and film studios. It boasts diverse residential options, excellent connectivity, and landmarks like Versova Beach and Lokhandwala Complex, making it a lively urban hub.",
+      "mapCoordinates": "19.140251963903804, 72.81936596134132",
+      "lat": 19.140251963903804,
+      "lng": 72.81936596134132,
+      "isActive": true,
+      "address": "SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400061",
+      "location": "Andheri West, Mumbai",
+      "city": "Mumbai",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "beachfront",
+        "bathtub",
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking",
+        "balcony",
+        "garden",
+        "tv",
+        "security-camera"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "8-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045040/20240707_213604_final_paslmr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045019/1000101392_final_vfqh4c.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045023/20240708_031759_final_xeho2j.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045024/20240709_031135_final_patc8b.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045024/20240709_033044_final_nya7qt.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045037/20240709_023139_final_umoqa2.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045034/20240709_033009_final_hmm2xt.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045019/20240708_031514_final_emdxg9.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045037/20240709_023139_final_umoqa2.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045039/20240709_031304_final_yu3k5z.webp",
+      "photos": {
+        "Pearl Palace": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045040/20240707_213604_final_paslmr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045039/20240709_031304_final_yu3k5z.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045038/20240708_025417_final_xr5drr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045038/20240707_213743_final_a68evu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045037/20240709_023139_final_umoqa2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045035/1000101389_final_fasryc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045034/1000101398_final_wlhoob.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045034/20240709_033009_final_hmm2xt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045032/20240709_032919_final_xcsy1c.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045031/20240707_213736_final_yfgcae.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045030/20240709_032817_final_wlyzez.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045029/20240708_031939_final_t69mu1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045028/1000101398_1__final_t7mra2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045028/20240708_025411_final_cvxktt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045025/20240708_031122_final_k6dhmq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045024/20240709_033044_final_nya7qt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045024/20240709_031135_final_patc8b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045023/20240709_031149_final_mrfqnf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045023/20240708_031759_final_xeho2j.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045019/20240708_031514_final_emdxg9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045019/1000101392_final_vfqh4c.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045018/20240708_031323_final_hvpme5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045017/20240708_031630_final_lrxbwx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723045017/20240708_031330_final_ko0xtg.webp"
+        ]
+      }
+    },
+    {
+      "id": "stellar-skyline",
+      "propertyId": "SSSS03",
+      "name": "Stellar Skyline",
+      "type": "Villa",
+      "description": "Relax with the whole family at this peaceful place to stay.",
+      "noOfGuests": 8,
+      "noOfBedrooms": 3,
+      "noOfBeds": 3,
+      "noOfBathrooms": 4,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "Toli Chowki, located in Hyderabad, India, is a culturally rich area known for its diverse community and vibrant markets. It's a bustling residential neighborhood with numerous eateries, historical sites, and close proximity to IT hubs like Gachibowli and Hitech City.",
+      "mapCoordinates": "17.40498163723562, 78.40534018688918",
+      "lat": 17.40498163723562,
+      "lng": 78.40534018688918,
+      "isActive": true,
+      "address": "My Home Rainbow Apartments, Shaikpet Rd, Aziz Bagh Colony, Toli Chowki, Hyderabad, Telangana 500008",
+      "location": "Toli Chowki, Hyderabad",
+      "city": "Hyderabad",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking",
+        "balcony",
+        "tv"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "8-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355180/image_1__final_zmy1ll.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355178/IMG_1492_final_bywi3m.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355172/20231106_170237-01_final_hdtjt0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352731/image_6__final_qgmerj.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/image_9__final_ftjqys.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355174/IMG_1577_final_ztadx0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355181/IMG_1458_final_mupkzv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/20231106_171834-01_final_lvbosz.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355182/IMG_1438_final_dkjfgx.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355183/IMG_1074_final_tynkqg.webp",
+      "photos": {}
+    },
+    {
+      "id": "vana-vista",
+      "propertyId": "SSSS03",
+      "name": "Vana Vista",
+      "type": "Villa",
+      "description": "Vana Vista is a luxury villa with spacious halls and greenery surroundings.",
+      "noOfGuests": 10,
+      "noOfBedrooms": 5,
+      "noOfBeds": 6,
+      "noOfBathrooms": 1,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "Koramangala, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
+      "mapCoordinates": "12.927868515887448, 77.62291413986851",
+      "lat": 12.927868515887448,
+      "lng": 77.62291413986851,
+      "isActive": true,
+      "address": "578, 16th Main Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034",
+      "location": "Koramangala, Bengaluru",
+      "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking",
+        "balcony"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "10-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355180/image_1__final_zmy1ll.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355178/IMG_1492_final_bywi3m.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355172/20231106_170237-01_final_hdtjt0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718352731/image_6__final_qgmerj.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/image_9__final_ftjqys.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355174/IMG_1577_final_ztadx0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355181/IMG_1458_final_mupkzv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355175/20231106_171834-01_final_lvbosz.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355182/IMG_1438_final_dkjfgx.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355183/IMG_1074_final_tynkqg.webp",
+      "photos": {}
+    },
+    {
+      "id": "mansion-bay",
+      "propertyId": "SSSS03",
+      "name": "Mansion Bay",
+      "type": "Villa",
+      "description": "Welcome to Mansion Bay, a stunning triplex pet friendly villa . This luxurious retreat is perfect for family and groups, offering four spacious, elegantly furnished rooms with premium bedding and en-suite bathrooms. Large halls provide ample seating for gatherings, and the sophisticated dining area and fully equipped modern kitchen cater to all your culinary needs. Enjoy high-speed WiFi, combining luxury and tranquility for an unforgettable stay.",
+      "noOfGuests": 8,
+      "noOfBedrooms": 4,
+      "noOfBeds": 4,
+      "noOfBathrooms": 4,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "HSR Layout, a prominent suburb in Bangalore, India, is known for its well-planned infrastructure, residential neighborhoods, and thriving commercial spaces. It's a popular area with parks, schools, and diverse dining options, offering a balanced urban lifestyle.",
+      "mapCoordinates": "12.915017433759, 77.64794668684124",
+      "lat": 12.915017433759,
+      "lng": 77.64794668684124,
+      "isActive": true,
+      "address": "2005, 22nd B Main Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+      "location": "HSR Layout, Bengaluru",
+      "city": "Bengaluru",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "security-camera",
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator",
+        "free-parking"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "8-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044172/SNF05306-MAIN_final_ynituo.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044060/SNF05324-MAIN_final_vpomex.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043807/SNF05477-MAIN_final_kptfp8.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044350/SNF05258-MAIN_final_wj6hxx.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044417/SNF05270-MAIN_final_jq0e3z.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043949/SNF05387-MAIN_final_rghopq.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043837/SNF05399-MAIN_final_caka8b.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043809/SNF05408-MAIN_final_cdzztz.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044573/SNF05234-MAIN_final_nq6kzp.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044573/SNF05234-MAIN_final_nq6kzp.webp",
+      "photos": {
+        "R 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044984/SNF05354-MAIN_final_gd2y9b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044974/SNF05357-MAIN_final_wendl4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044973/SNF05351-MAIN_final_nmi4ph.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044971/SNF05375-MAIN_final_nxga19.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044954/SNF05369-MAIN_final_cjsave.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044931/SNF05360-MAIN_final_z6n9mr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044909/SNF05363-MAIN_final_noievy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044886/SNF05372-MAIN_final_jwr6sh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044864/SNF05366-MAIN_final_glmvwb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044842/SNF05378-MAIN_final_os4egy.webp"
+        ],
+        "R 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044984/SNF05435-MAIN_final_lo1jtx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044983/SNF05429-MAIN_final_jebxw8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044981/SNF05420-MAIN_final_ubxrpb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044980/SNF05414-MAIN_final_z9rcat.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044979/SNF05432-MAIN_final_cxkrfo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044979/SNF05411-MAIN_final_oz7leb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044977/SNF05444-MAIN_final_dp91eo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044976/SNF05447-MAIN_final_ljpyck.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044975/SNF05441-MAIN_final_yefxh7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044975/SNF05454-MAIN_final_wihr8c.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044975/SNF05438-MAIN_final_bgypgx.webp"
+        ],
+        "R 3": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044819/SNF05336-MAIN_final_bfn7hc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044797/SNF05327-MAIN_final_g68riy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044775/SNF05330-MAIN_final_mdy0wy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044753/SNF05333-MAIN_final_yxtcul.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044731/SNF05345-MAIN_final_ckdzrt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044707/SNF05342-MAIN_final_t6yeuc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044685/SNF05339-MAIN_final_tdafuk.webp"
+        ],
+        "R 4": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044663/SNF05285-MAIN_final_b4esmq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044640/SNF05282-MAIN_final_d4kmsg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044617/SNF05288-MAIN_final_niolo9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044595/SNF05279-MAIN_final_ojii8t.webp"
+        ],
+        "Additional Photos": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044573/SNF05234-MAIN_final_nq6kzp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044550/SNF05237-MAIN_final_awesek.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044528/SNF05240-MAIN_final_ufosfe.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044506/SNF05246-MAIN_final_czhrat.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044484/SNF05243-MAIN_final_d7s0ed.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044461/SNF05249-MAIN_final_dgmiz0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044439/SNF05252-MAIN_final_iamwef.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044417/SNF05270-MAIN_final_jq0e3z.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044394/SNF05255-MAIN_final_dlssfy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044372/SNF05264-MAIN_final_gyt9wh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044350/SNF05258-MAIN_final_wj6hxx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044328/SNF05261-MAIN_final_uhetce.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044306/SNF05267-MAIN_final_gnuz33.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044283/SNF05273-MAIN_final_qbhlav.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044261/SNF05276-MAIN_final_ijrxxl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044239/SNF05291-MAIN_final_u77lsi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044216/SNF05312-MAIN_final_slneuk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044194/SNF05303-MAIN_final_j6zsxg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044172/SNF05306-MAIN_final_ynituo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044149/SNF05300-MAIN_final_xmsxfu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044127/SNF05299-MAIN_final_rmz1ds.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044105/SNF05294-MAIN_final_zjindz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044082/SNF05309-MAIN_final_likppi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044060/SNF05324-MAIN_final_vpomex.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044038/SNF05318-MAIN_final_fzjwp3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723044016/SNF05321-MAIN_final_vwqemm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043993/SNF05315-MAIN_final_wzxbv9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043971/SNF05348-MAIN_final_djihil.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043949/SNF05387-MAIN_final_rghopq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043926/SNF05396-MAIN_final_xfbrod.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043904/SNF05402-MAIN_final_qwouzj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043881/SNF05381-MAIN_final_rusjzt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043859/SNF05390-MAIN_final_mlqmbc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043837/SNF05399-MAIN_final_caka8b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043814/SNF05393-MAIN_final_mpd2us.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043809/SNF05408-MAIN_final_cdzztz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043809/SNF05405-MAIN_final_ylt94y.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043808/SNF05468-MAIN_final_bevrz2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043808/SNF05456-MAIN_final_ctvzen.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043807/SNF05477-MAIN_final_kptfp8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043807/SNF05474-MAIN_final_pijyvi.webp"
+        ]
+      }
+    },
+    {
+      "id": "bollywood-boulevard",
+      "propertyId": "SSSS03",
+      "name": "Bollywood Boulevard",
+      "type": "Villa",
+      "description": "Step into a touch of glamour with Bollywood Boulevard Villa, your private retreat villa in the heart of Andheri near Lokhandwala complex. Enjoy a serene atmosphere with low noise allowed, making it ideal for families and friends. Experience luxury and comfort in this stylish home!",
+      "noOfGuests": 6,
+      "noOfBedrooms": 2,
+      "noOfBeds": 2,
+      "noOfBathrooms": 2,
+      "rating": 5,
+      "price": "3,499",
+      "locationDescription": "Andheri West, a bustling suburb in Mumbai, India, is famous for its vibrant nightlife, shopping districts, and film studios. It boasts diverse residential options, excellent connectivity, and landmarks like Versova Beach and Lokhandwala Complex, making it a lively urban hub.",
+      "mapCoordinates": "19.136982029671795, 72.8223085265065",
+      "lat": 19.136982029671795,
+      "lng": 72.8223085265065,
+      "isActive": true,
+      "address": "SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400061",
+      "location": "Andheri West, Mumbai",
+      "city": "Mumbai",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.makemytrip.com/hotels/sunflower_skyline_by_spacez-details-bangalore.html",
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "6-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043787/IMG_6590_final_pnbu46.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043780/IMG_6559_final_rlz1pp.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043772/IMG_6567_final_f8rhbr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043796/IMG_6579_final_xwlmsr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043794/IMG_6581_final_igou5j.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043796/IMG_6579_final_xwlmsr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043787/IMG_6565_final_qm8rrr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043797/IMG_6578_final_qajkmc.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355182/IMG_1438_final_dkjfgx.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043803/IMG_6557_final_vuzha7.webp",
+      "photos": {
+        "Bollywood Boulevard": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043803/IMG_6595_final_gq8slx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043803/IMG_6557_final_vuzha7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043801/IMG_6577_final_r3bndi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043800/IMG_6576_final_awz84u.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043799/IMG_6589_final_etx8kt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043798/IMG_6583_final_lkdhrr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043798/IMG_6555_final_z8qmsq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043797/IMG_6578_final_qajkmc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043796/IMG_6586_final_ifbw4a.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043796/IMG_6579_final_xwlmsr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043794/IMG_6581_final_igou5j.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043793/IMG_6582_final_nkwyxm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043793/IMG_6560_final_dkiypf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043792/IMG_6585_final_jckczp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043791/IMG_6573_final_lsnzky.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043790/IMG_6575_final_bndvic.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043790/IMG_6561_final_phpqjy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043788/IMG_6584_final_os2uen.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043787/IMG_6590_final_pnbu46.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043787/IMG_6565_final_qm8rrr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043786/IMG_6566_final_xtguhm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043785/IMG_6597_final_lqb8bv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043785/IMG_6568_final_gkryrp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043782/IMG_6596_final_umzvq6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043782/IMG_6588_final_kbdtnh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043781/IMG_6592_final_inhjls.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043780/IMG_6591_final_s2tx4l.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043780/IMG_6593_final_wmetcw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043780/IMG_6559_final_rlz1pp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043776/IMG_6569_final_uslkk6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043775/IMG_6556_final_a4fhgm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043774/IMG_6594_final_kfsmop.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043774/IMG_6587_final_g9vwms.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043773/IMG_6580_final_dthosz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043773/IMG_6558_final_ryjzcb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043773/IMG_6564_final_n0v8sb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043772/IMG_6567_final_f8rhbr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1723043772/IMG_6563_final_sh3isx.webp"
         ]
       }
     }
