@@ -3406,5 +3406,63 @@
         ]
       }
     }
+  ],
+  "propertyLocations": [
+    {
+      "key": "Namma Woodland",
+      "location": { "lat": 12.955102088623399, "lng": 77.64338403154552 }
+    },
+    {
+      "key": "Vintage Haven",
+      "location": { "lat": 12.980896435344464, "lng": 77.63837315040129 }
+    },
+    {
+      "key": "Cascade Castle",
+      "location": { "lat": 12.92852893640997, "lng": 77.62242597340452 }
+    },
+    {
+      "key": "Urban Escape",
+      "location": { "lat": 12.938185630566156, "lng": 77.62508582559421 }
+    },
+    {
+      "key": "House of 2 Trees",
+      "location": { "lat": 12.972910548841337, "lng": 77.63997443015226 }
+    },
+    {
+      "key": "Palm Paradise",
+      "location": { "lat": 12.9869835, "lng": 77.6452394 }
+    },
+    {
+      "key": "Jugglers Rest",
+      "location": { "lat": 12.97790108149889, "lng": 77.63453005091306 }
+    },
+    {
+      "key": "Sunflower Skyline",
+      "location": { "lat": 12.938181244850899, "lng": 77.62506007131547 }
+    },
+    {
+      "key": "Magnum Opus",
+      "location": { "lat": 12.959167339260617, "lng": 77.71874228553092 }
+    },
+    {
+      "key": "Pearl Palace",
+      "location": { "lat": 19.140251963903804, "lng": 72.81936596134132 }
+    },
+    {
+      "key": "Stellar Skyline",
+      "location": { "lat": 17.40498163723562, "lng": 78.40534018688918 }
+    },
+    {
+      "key": "Vana Vista",
+      "location": { "lat": 12.927868515887448, "lng": 77.62291413986851 }
+    },
+    {
+      "key": "Bollywood Boulevard",
+      "location": { "lat": 19.136982029671795, "lng": 72.8223085265065 }
+    },
+    {
+      "key": "Mansion Bay",
+      "location": { "lat": 12.915017433759, "lng": 77.64794668684124 }
+    }
   ]
 }
