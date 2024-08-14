@@ -220,12 +220,6 @@
       "label": "Garden"
     },
     {
-      "id": "waterfront",
-      "category": "Location Features",
-      "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723020443/coast_1_mjx9rc.png",
-      "label": "Waterfront"
-    },
-    {
       "id": "beachfront",
       "category": "Location Features",
       "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1723023473/summer_1_zhdycq.png",
@@ -2620,7 +2614,7 @@
     },
     {
       "id": "waterfall-manor",
-      "propertyId": "SSSS03",
+      "propertyId": "WMWM05",
       "name": "Waterfall Manor",
       "type": "Villa",
       "description": "Experience luxury and tranquility at Waterfall Manor, a stunning villa in HSR Layout, Bangalore. This beautifully designed home features: 4 Luxurious & Spacious rooms with premium bedding and en-suite bathrooms, Large Halls with Ample seating for gatherings, Fully equipped modern kitchen and sophisticated dining area, Indoor garden with a serene waterfall feature, Charming patio with a park view on the terrace.",
@@ -2655,7 +2649,6 @@
         }
       ],
       "amenities": [
-        "waterfront",
         "bathtub",
         "hair-dryer",
         "shampoo",
@@ -2765,7 +2758,7 @@
     },
     {
       "id": "pearl-palace",
-      "propertyId": "SSSS03",
+      "propertyId": "PPPP04",
       "name": "Pearl Palace",
       "type": "Villa",
       "description": "Spacez luxe villa in the heart of Mumbai located in Lokhandwala",
@@ -2878,7 +2871,7 @@
     },
     {
       "id": "mansion-bay",
-      "propertyId": "SSSS03",
+      "propertyId": "MBMB05",
       "name": "Mansion Bay",
       "type": "Villa",
       "description": "Welcome to Mansion Bay, a stunning triplex pet friendly villa . This luxurious retreat is perfect for family and groups, offering four spacious, elegantly furnished rooms with premium bedding and en-suite bathrooms. Large halls provide ample seating for gatherings, and the sophisticated dining area and fully equipped modern kitchen cater to all your culinary needs. Enjoy high-speed WiFi, combining luxury and tranquility for an unforgettable stay.",
@@ -3043,7 +3036,7 @@
     },
     {
       "id": "bollywood-boulevard",
-      "propertyId": "SSSS03",
+      "propertyId": "BBBB03",
       "name": "Bollywood Boulevard",
       "type": "Villa",
       "description": "Step into a touch of glamour with Bollywood Boulevard Villa, your private retreat villa in the heart of Andheri near Lokhandwala complex. Enjoy a serene atmosphere with low noise allowed, making it ideal for families and friends. Experience luxury and comfort in this stylish home!",
