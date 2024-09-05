@@ -2988,7 +2988,7 @@
       "ownerDeposit": 420000,
       "expectedReturns": "26%",
       "occupancyRate": "73%",
-      "isInvestmentAvailable": false,
+      "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "thingsToDo": [
@@ -3163,7 +3163,7 @@
       "ownerDeposit": 850000,
       "expectedReturns": "30%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": false,
+      "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "thingsToDo": [
