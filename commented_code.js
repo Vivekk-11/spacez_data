@@ -245,3 +245,10 @@
     //   "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1718355183/IMG_1074_final_tynkqg.webp",
     //   "photos": {}
     // },
+
+// Jugglers costPerSlot
+// Namma's costPerSlot, setupCost
+// Mansion Bay's costPerSlot, setupCost
+// Pearl Palace's costPerSlot, setupCost
+// Bollywood Boulevard's costPerSlot, setupCost
+// Stellar Skyline's costPerSlot, setupCost, ownerDeposit
