@@ -13,7 +13,6 @@
       "How long does it take to clear a pending reservation?"
     ]
   },
-  
 
   "amenities": [
     {
@@ -331,6 +330,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 436105, "firstYearReturnPercentage": 127 },
+        { "secondYearReturn": 528820, "secondYearReturnPercentage": 154 },
+        { "thirdYearReturn": 621535, "thirdYearReturnPercentage": 181 },
+        { "fourthYearReturn": 714250, "fourthYearReturnPercentage": 208 },
+        { "fifthYearReturn": 806965, "fifthYearReturnPercentage": 235 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -760,6 +766,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 593219, "firstYearReturnPercentage": 133 },
+        { "secondYearReturn": 740408, "secondYearReturnPercentage": 166 },
+        { "thirdYearReturn": 887597, "thirdYearReturnPercentage": 199 },
+        { "fourthYearReturn": 1034786, "fourthYearReturnPercentage": 232 },
+        { "fifthYearReturn": 1181975, "fifthYearReturnPercentage": 26 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -1079,6 +1092,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 2132525, "firstYearReturnPercentage": 129 },
+        { "secondYearReturn": 2611930, "secondYearReturnPercentage": 158 },
+        { "thirdYearReturn": 3091335, "thirdYearReturnPercentage": 1870 },
+        { "fourthYearReturn": 3570739, "fourthYearReturnPercentage": 216 },
+        { "fifthYearReturn": 4050144, "fifthYearReturnPercentage": 245 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -1193,6 +1213,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 603720, "firstYearReturnPercentage": 129 },
+        { "secondYearReturn": 739440, "secondYearReturnPercentage": 158 },
+        { "thirdYearReturn": 875160, "thirdYearReturnPercentage": 187 },
+        { "fourthYearReturn": 1010880, "fourthYearReturnPercentage": 216 },
+        { "fifthYearReturn": 1146600, "fifthYearReturnPercentage": 245 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -1513,6 +1540,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 675608, "firstYearReturnPercentage": 132 },
+        { "secondYearReturn": 833391, "secondYearReturnPercentage": 164 },
+        { "thirdYearReturn": 1003173, "thirdYearReturnPercentage": 196 },
+        { "fourthYearReturn": 1166956, "fourthYearReturnPercentage": 228 },
+        { "fifthYearReturn": 1330740, "fifthYearReturnPercentage": 260 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -1911,6 +1945,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 607175, "firstYearReturnPercentage": 128 },
+        { "secondYearReturn": 741320, "secondYearReturnPercentage": 156 },
+        { "thirdYearReturn": 875465, "thirdYearReturnPercentage": 185 },
+        { "fourthYearReturn": 1009610, "fourthYearReturnPercentage": 213 },
+        { "fifthYearReturn": 1143755, "fifthYearReturnPercentage": 241 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -2261,6 +2302,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 637039, "firstYearReturnPercentage": 131 },
+        { "secondYearReturn": 787790, "secondYearReturnPercentage": 161 },
+        { "thirdYearReturn": 938540, "thirdYearReturnPercentage": 193 },
+        { "fourthYearReturn": 1089290, "fourthYearReturnPercentage": 224 },
+        { "fifthYearReturn": 1240039, "fifthYearReturnPercentage": 255 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -2724,6 +2772,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 648583, "firstYearReturnPercentage": 130 },
+        { "secondYearReturn": 798256, "secondYearReturnPercentage": 160 },
+        { "thirdYearReturn": 947929, "thirdYearReturnPercentage": 190 },
+        { "fourthYearReturn": 1097542, "fourthYearReturnPercentage": 219 },
+        { "fifthYearReturn": 1247275, "fifthYearReturnPercentage": 250 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -2879,6 +2934,13 @@
       "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
+      "returnsData": [
+        { "firstYearReturn": 628269.5, "firstYearReturnPercentage": 131 },
+        { "secondYearReturn": 777144.9, "secondYearReturnPercentage": 162 },
+        { "thirdYearReturn": 926020.35, "thirdYearReturnPercentage": 193 },
+        { "fourthYearReturn": 1074895.8, "fourthYearReturnPercentage": 224 },
+        { "fifthYearReturn": 1223771.25, "fifthYearReturnPercentage": 255 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3003,6 +3065,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 630000, "firstYearReturnPercentage": 126 },
+        { "secondYearReturn": 760000, "secondYearReturnPercentage": 152 },
+        { "thirdYearReturn": 890000, "thirdYearReturnPercentage": 178 },
+        { "fourthYearReturn": 1020000, "fourthYearReturnPercentage": 204 },
+        { "fifthYearReturn": 1150000, "fifthYearReturnPercentage": 230 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3179,6 +3248,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 1040000, "firstYearReturnPercentage": 130 },
+        { "secondYearReturn": 1280000, "secondYearReturnPercentage": 160 },
+        { "thirdYearReturn": 1520000, "thirdYearReturnPercentage": 190 },
+        { "fourthYearReturn": 1760000, "fourthYearReturnPercentage": 220 },
+        { "fifthYearReturn": 2000000, "fifthYearReturnPercentage": 250 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3310,6 +3386,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 1048000, "firstYearReturnPercentage": 131 },
+        { "secondYearReturn": 1296000, "secondYearReturnPercentage": 162 },
+        { "thirdYearReturn": 1544000, "thirdYearReturnPercentage": 193 },
+        { "fourthYearReturn": 1792000, "fourthYearReturnPercentage": 224 },
+        { "fifthYearReturn": 2040000, "fifthYearReturnPercentage": 255 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3360,97 +3443,97 @@
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261815/ClassicCharm-Roof_and_exterior_9_j8qbuc.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_3_m0b8my.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261837/ClassicCharm-Living_room_1_xp7oik.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_3_m0b8my.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261837/ClassicCharm-Living_room_1_xp7oik.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
       "photos": {
-"Outside and Roof": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261820/ClassicCharm-Roof_and_exterior_2_gf4vti.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261819/ClassicCharm-Roof_and_exterior_4_ygnvii.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_kw7ze8.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_1_kydvoy.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261815/ClassicCharm-Roof_and_exterior_9_j8qbuc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261814/ClassicCharm-Roof_and_exterior_3_nl8nze.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Roof_and_exterior_7_lstxsc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_6_flqpkf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_8_aa9z6v.webp"
-    ],
-    "Kitchen and Dinning Area": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261820/ClassicCharm-Roof_and_exterior_2_gf4vti.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261819/ClassicCharm-Roof_and_exterior_4_ygnvii.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_kw7ze8.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_1_kydvoy.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261815/ClassicCharm-Roof_and_exterior_9_j8qbuc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261814/ClassicCharm-Roof_and_exterior_3_nl8nze.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Roof_and_exterior_7_lstxsc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_6_flqpkf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_8_aa9z6v.webp"
-    ],
-    "Living room 1": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261837/ClassicCharm-Living_room_1_xp7oik.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_1_ds7d48.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_3_m0b8my.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261834/ClassicCharm-Living_room_1_4_gjj5pm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261833/ClassicCharm-Living_room_1_2_cxsv0d.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261833/ClassicCharm-Living_room_1_5_ryti7d.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261831/ClassicCharm-Living_room_1_8_o8zcxi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261830/ClassicCharm-Living_room_1_7_xijm8u.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261829/ClassicCharm-Living_room_1_9_ibxc3e.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261829/ClassicCharm-Living_room_1_10_kk8hxb.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261828/ClassicCharm-Living_room_1_6_busfcz.webp"
-    ],
-    "Living room 2": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261798/ClassicCharm-Living_room_2_3_qlkwbz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261797/ClassicCharm-Living_room_2_5_da7xjg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261796/ClassicCharm-Living_room_2_7_fjsvmp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261795/ClassicCharm-Living_room_2_nicuco.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261795/ClassicCharm-Living_room_2_1_erlnoa.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261794/ClassicCharm-Living_room_2_6_xoyuc3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261792/ClassicCharm-Living_room_2_2_keqnn3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261791/ClassicCharm-Living_room_2_8_hfhpkj.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261791/ClassicCharm-Living_room_2_4_a84aju.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261788/ClassicCharm-Living_room_2_9_amsx8o.webp"
-    ],
-    "Room 1": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261844/ClassicCharm-Room_1_2_u1whpl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261843/ClassicCharm-Room_1_fbcnjs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261842/ClassicCharm-Room_1_1_zf3rft.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261841/ClassicCharm-Room_1_5_lyjir4.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261840/ClassicCharm-Room_1_6_cmdtdi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261839/ClassicCharm-Room_1_3_jqepjz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261839/ClassicCharm-Room_1_4_hlw21x.webp"
-    ],
-    "Room 2": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Room_2_4_vlynh5.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261810/ClassicCharm-Room_2_3_fdcgwu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261808/ClassicCharm-Room_2_2_d2zsni.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261807/ClassicCharm-Room_2_x3bczw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261807/ClassicCharm-Room_2_1_ehb5oh.webp"
-    ],
-    "Room 3": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261806/ClassicCharm-Room_3_4_cnj8jk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261806/ClassicCharm-Room_3_6_arlc1b.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261805/ClassicCharm-Room_3_5_wiejlt.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261803/ClassicCharm-Room_3_2_kfabmk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261802/ClassicCharm-Room_3_1_sgikwu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261800/ClassicCharm-Room_3_3_msgk0p.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261800/ClassicCharm-Room_3_garhtq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261799/ClassicCharm-Room_3_7_ikysl4.webp"
-    ],
-    "Room 4": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261788/ClassicCharm-Room_4_1_swolf8.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_ajk33k.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_3_m8mdij.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_2_nhxgnv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261785/ClassicCharm-Room_4_4_uxcwrx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261784/ClassicCharm-Room_4_5_m3w3sd.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261784/ClassicCharm-Room_4_6_tcappo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261783/ClassicCharm-Room_4_7_hkkwyq.webp"
-    ]
+        "Outside and Roof": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261820/ClassicCharm-Roof_and_exterior_2_gf4vti.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261819/ClassicCharm-Roof_and_exterior_4_ygnvii.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_kw7ze8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_1_kydvoy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261815/ClassicCharm-Roof_and_exterior_9_j8qbuc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261814/ClassicCharm-Roof_and_exterior_3_nl8nze.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Roof_and_exterior_7_lstxsc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_6_flqpkf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_8_aa9z6v.webp"
+        ],
+        "Kitchen and Dinning Area": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261820/ClassicCharm-Roof_and_exterior_2_gf4vti.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261819/ClassicCharm-Roof_and_exterior_4_ygnvii.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_kw7ze8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261818/ClassicCharm-Roof_and_exterior_1_kydvoy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261816/ClassicCharm-Roof_and_exterior_5_utoncg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261815/ClassicCharm-Roof_and_exterior_9_j8qbuc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261814/ClassicCharm-Roof_and_exterior_3_nl8nze.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Roof_and_exterior_7_lstxsc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_6_flqpkf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261812/ClassicCharm-Roof_and_exterior_8_aa9z6v.webp"
+        ],
+        "Living room 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261837/ClassicCharm-Living_room_1_xp7oik.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_1_ds7d48.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261836/ClassicCharm-Living_room_1_3_m0b8my.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261834/ClassicCharm-Living_room_1_4_gjj5pm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261833/ClassicCharm-Living_room_1_2_cxsv0d.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261833/ClassicCharm-Living_room_1_5_ryti7d.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261831/ClassicCharm-Living_room_1_8_o8zcxi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261830/ClassicCharm-Living_room_1_7_xijm8u.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261829/ClassicCharm-Living_room_1_9_ibxc3e.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261829/ClassicCharm-Living_room_1_10_kk8hxb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261828/ClassicCharm-Living_room_1_6_busfcz.webp"
+        ],
+        "Living room 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261798/ClassicCharm-Living_room_2_3_qlkwbz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261797/ClassicCharm-Living_room_2_5_da7xjg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261796/ClassicCharm-Living_room_2_7_fjsvmp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261795/ClassicCharm-Living_room_2_nicuco.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261795/ClassicCharm-Living_room_2_1_erlnoa.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261794/ClassicCharm-Living_room_2_6_xoyuc3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261792/ClassicCharm-Living_room_2_2_keqnn3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261791/ClassicCharm-Living_room_2_8_hfhpkj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261791/ClassicCharm-Living_room_2_4_a84aju.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261788/ClassicCharm-Living_room_2_9_amsx8o.webp"
+        ],
+        "Room 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261844/ClassicCharm-Room_1_2_u1whpl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261843/ClassicCharm-Room_1_fbcnjs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261842/ClassicCharm-Room_1_1_zf3rft.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261841/ClassicCharm-Room_1_5_lyjir4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261840/ClassicCharm-Room_1_6_cmdtdi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261839/ClassicCharm-Room_1_3_jqepjz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261839/ClassicCharm-Room_1_4_hlw21x.webp"
+        ],
+        "Room 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261813/ClassicCharm-Room_2_4_vlynh5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261810/ClassicCharm-Room_2_3_fdcgwu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261808/ClassicCharm-Room_2_2_d2zsni.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261807/ClassicCharm-Room_2_x3bczw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261807/ClassicCharm-Room_2_1_ehb5oh.webp"
+        ],
+        "Room 3": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261806/ClassicCharm-Room_3_4_cnj8jk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261806/ClassicCharm-Room_3_6_arlc1b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261805/ClassicCharm-Room_3_5_wiejlt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261803/ClassicCharm-Room_3_2_kfabmk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261802/ClassicCharm-Room_3_1_sgikwu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261800/ClassicCharm-Room_3_3_msgk0p.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261800/ClassicCharm-Room_3_garhtq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261799/ClassicCharm-Room_3_7_ikysl4.webp"
+        ],
+        "Room 4": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261788/ClassicCharm-Room_4_1_swolf8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_ajk33k.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_3_m8mdij.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261786/ClassicCharm-Room_4_2_nhxgnv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261785/ClassicCharm-Room_4_4_uxcwrx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261784/ClassicCharm-Room_4_5_m3w3sd.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261784/ClassicCharm-Room_4_6_tcappo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261783/ClassicCharm-Room_4_7_hkkwyq.webp"
+        ]
       }
     },
     {
@@ -3486,6 +3569,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 215033, "firstYearReturnPercentage": 44 },
+        { "secondYearReturn": 430065, "secondYearReturnPercentage": 88 },
+        { "thirdYearReturn": 645098, "thirdYearReturnPercentage": 132 },
+        { "fourthYearReturn": 860130, "fourthYearReturnPercentage": 176 },
+        { "fifthYearReturn": 1075163, "fifthYearReturnPercentage": 220 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3529,97 +3619,97 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
       "photos": {
         "Outside": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262414/Vana_Vista-_Outside_7_s796dm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262414/Vana_Vista-_Outside_8_xinb67.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262413/Vana_Vista-_Outside_3_b5xorl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262412/Vana_Vista-_Outside_6_heuxtw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262410/Vana_Vista-_Outside_4_g7ltyc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262409/Vana_Vista-_Outside_2_coomuv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_9_bxdxoq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262407/Vana_Vista-_Outside_avyhqo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262406/Vana_Vista-_Outside_5_yixbhm.webp"
-    ],
-    "Livingroom": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_dx17yu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262402/Vana_Vista-_Living_Room_14_lqmerk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262401/Vana_Vista-_Living_Room_10_abl7jt.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262400/Vana_Vista-_Living_Room_9_km7rqz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262399/Vana_Vista-_Living_Room_11_qmrg0v.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262399/Vana_Vista-_Living_Room_6_eeykc4.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262397/Vana_Vista-_Living_Room_7_vb7ri5.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262395/Vana_Vista-_Living_Room_4_rrncnk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_13_i3fl0y.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262392/Vana_Vista-_Living_Room_1_lz9lrd.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262392/Vana_Vista-_Living_Room_5_jsvodh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262390/Vana_Vista-_Living_Room_8_vvjgyh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262389/Vana_Vista-_Living_Room_3_epnibt.webp"
-    ],
-    "Roof Kitchen And Dinning Area": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262388/Vana_Vista-_Roof_Kitchen_and_Dinning_17_nr3be5.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262387/Vana_Vista-_Roof_Kitchen_and_Dinning_16_nvxkx1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262385/Vana_Vista-_Roof_Kitchen_and_Dinning_14_raenee.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262385/Vana_Vista-_Roof_Kitchen_and_Dinning_15_y6qigt.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262384/Vana_Vista-_Roof_Kitchen_and_Dinning_9_g9kvuc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262384/Vana_Vista-_Roof_Kitchen_and_Dinning_13_qbx4s1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262101/Vana_Vista-_Roof_Kitchen_and_Dinning_6_zpyv2x.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262093/Vana_Vista-_Roof_Kitchen_and_Dinning_10_z6p8o1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262092/Vana_Vista-_Roof_Kitchen_and_Dinning_11_za4ee0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262092/Vana_Vista-_Roof_Kitchen_and_Dinning_3_i7ckxl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262090/Vana_Vista-_Roof_Kitchen_and_Dinning_2_qekbli.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262089/Vana_Vista-_Roof_Kitchen_and_Dinning_1_fndgvs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262088/Vana_Vista-_Roof_Kitchen_and_Dinning_8_r62in7.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262086/Vana_Vista-_Roof_Kitchen_and_Dinning_jmljcc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262085/Vana_Vista-_Roof_Kitchen_and_Dinning_12_hts2i7.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262084/Vana_Vista-_Roof_Kitchen_and_Dinning_4_d04ndp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262083/Vana_Vista-_Roof_Kitchen_and_Dinning_7_gs4cu4.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262081/Vana_Vista-_Roof_Kitchen_and_Dinning_5_tneesv.webp"
-    ],
-    "Room 1": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262080/Vana_Vista-_Room1_1_nmclud.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262078/Vana_Vista-_Room1_2_omqcv4.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262078/Vana_Vista-_Room1_ap8crv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262077/Vana_Vista-_Room1_6_kco7hs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262076/Vana_Vista-_Room1_5_o4ebcn.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262073/Vana_Vista-_Room1_4_mhy4xi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262073/Vana_Vista-_Room1_7_kqn5eb.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262072/Vana_Vista-_Room1_3_idle9f.webp"
-    ],
-    "Room 2": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262072/Vana_Vista-_Room2_1_lyuun4.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262070/Vana_Vista-_Room2_kuaqsg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262068/Vana_Vista-_Room2_2_oc4x8s.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262068/Vana_Vista-_Room2_3_mrlex0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262066/Vana_Vista-_Room2_4_g3rtvk.webp"
-    ],
-    "Room 3": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262066/Vana_Vista-_Room3_5_nj6552.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262064/Vana_Vista-_Room3_6_fwquib.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262063/Vana_Vista-_Room3_3_vmslxr.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262062/Vana_Vista-_Room3_1_l19mia.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262061/Vana_Vista-_Room3_d7um16.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262060/Vana_Vista-_Room3_2_sgos65.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262058/Vana_Vista-_Room3_4_fzcxy9.webp"
-    ],
-    "Room 4": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262057/Vana_Vista-_Room4_1_itrrz7.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262056/Vana_Vista-_Room4_yq8ggz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262055/Vana_Vista-_Room4_2_avboec.webp"
-    ]
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262414/Vana_Vista-_Outside_7_s796dm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262414/Vana_Vista-_Outside_8_xinb67.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262413/Vana_Vista-_Outside_3_b5xorl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262412/Vana_Vista-_Outside_6_heuxtw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262410/Vana_Vista-_Outside_4_g7ltyc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262409/Vana_Vista-_Outside_2_coomuv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_1_mcuqb9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262408/Vana_Vista-_Outside_9_bxdxoq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262407/Vana_Vista-_Outside_avyhqo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262406/Vana_Vista-_Outside_5_yixbhm.webp"
+        ],
+        "Livingroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_12_t9ue2d.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262404/Vana_Vista-_Living_Room_dx17yu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262402/Vana_Vista-_Living_Room_14_lqmerk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262401/Vana_Vista-_Living_Room_10_abl7jt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262400/Vana_Vista-_Living_Room_9_km7rqz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262399/Vana_Vista-_Living_Room_11_qmrg0v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262399/Vana_Vista-_Living_Room_6_eeykc4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262397/Vana_Vista-_Living_Room_7_vb7ri5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262395/Vana_Vista-_Living_Room_4_rrncnk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_2_bi8oml.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262394/Vana_Vista-_Living_Room_13_i3fl0y.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262392/Vana_Vista-_Living_Room_1_lz9lrd.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262392/Vana_Vista-_Living_Room_5_jsvodh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262390/Vana_Vista-_Living_Room_8_vvjgyh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262389/Vana_Vista-_Living_Room_3_epnibt.webp"
+        ],
+        "Roof Kitchen And Dinning Area": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262388/Vana_Vista-_Roof_Kitchen_and_Dinning_17_nr3be5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262387/Vana_Vista-_Roof_Kitchen_and_Dinning_16_nvxkx1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262385/Vana_Vista-_Roof_Kitchen_and_Dinning_14_raenee.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262385/Vana_Vista-_Roof_Kitchen_and_Dinning_15_y6qigt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262384/Vana_Vista-_Roof_Kitchen_and_Dinning_9_g9kvuc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262384/Vana_Vista-_Roof_Kitchen_and_Dinning_13_qbx4s1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262101/Vana_Vista-_Roof_Kitchen_and_Dinning_6_zpyv2x.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262093/Vana_Vista-_Roof_Kitchen_and_Dinning_10_z6p8o1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262092/Vana_Vista-_Roof_Kitchen_and_Dinning_11_za4ee0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262092/Vana_Vista-_Roof_Kitchen_and_Dinning_3_i7ckxl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262090/Vana_Vista-_Roof_Kitchen_and_Dinning_2_qekbli.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262089/Vana_Vista-_Roof_Kitchen_and_Dinning_1_fndgvs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262088/Vana_Vista-_Roof_Kitchen_and_Dinning_8_r62in7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262086/Vana_Vista-_Roof_Kitchen_and_Dinning_jmljcc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262085/Vana_Vista-_Roof_Kitchen_and_Dinning_12_hts2i7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262084/Vana_Vista-_Roof_Kitchen_and_Dinning_4_d04ndp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262083/Vana_Vista-_Roof_Kitchen_and_Dinning_7_gs4cu4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262081/Vana_Vista-_Roof_Kitchen_and_Dinning_5_tneesv.webp"
+        ],
+        "Room 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262080/Vana_Vista-_Room1_1_nmclud.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262078/Vana_Vista-_Room1_2_omqcv4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262078/Vana_Vista-_Room1_ap8crv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262077/Vana_Vista-_Room1_6_kco7hs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262076/Vana_Vista-_Room1_5_o4ebcn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262073/Vana_Vista-_Room1_4_mhy4xi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262073/Vana_Vista-_Room1_7_kqn5eb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262072/Vana_Vista-_Room1_3_idle9f.webp"
+        ],
+        "Room 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262072/Vana_Vista-_Room2_1_lyuun4.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262070/Vana_Vista-_Room2_kuaqsg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262068/Vana_Vista-_Room2_2_oc4x8s.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262068/Vana_Vista-_Room2_3_mrlex0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262066/Vana_Vista-_Room2_4_g3rtvk.webp"
+        ],
+        "Room 3": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262066/Vana_Vista-_Room3_5_nj6552.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262064/Vana_Vista-_Room3_6_fwquib.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262063/Vana_Vista-_Room3_3_vmslxr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262062/Vana_Vista-_Room3_1_l19mia.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262061/Vana_Vista-_Room3_d7um16.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262060/Vana_Vista-_Room3_2_sgos65.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262058/Vana_Vista-_Room3_4_fzcxy9.webp"
+        ],
+        "Room 4": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262057/Vana_Vista-_Room4_1_itrrz7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262056/Vana_Vista-_Room4_yq8ggz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262055/Vana_Vista-_Room4_2_avboec.webp"
+        ]
       }
     },
     {
@@ -3655,6 +3745,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 658561, "firstYearReturnPercentage": 132 },
+        { "secondYearReturn": 812812, "secondYearReturnPercentage": 164 },
+        { "thirdYearReturn": 977863, "thirdYearReturnPercentage": 196 },
+        { "fourthYearReturn": 1137514, "fourthYearReturnPercentage": 228 },
+        { "fifthYearReturn": 1297166, "fifthYearReturnPercentage": 260 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3698,105 +3795,105 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261894/Heritage_Haven-_Outside_and_Roof_4_qtdsfp.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261894/Heritage_Haven-_Outside_and_Roof_4_qtdsfp.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_8_uehenv.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_8_uehenv.webp",
       "photos": {
         "Outside and Roof": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261896/Heritage_Haven-_Outside_and_Roof_waej18.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261894/Heritage_Haven-_Outside_and_Roof_4_qtdsfp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_3_nlgecc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_2_ytqygr.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_8_uehenv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261889/Heritage_Haven-_Outside_and_Roof_1_efbhzs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261889/Heritage_Haven-_Outside_and_Roof_6_swjli8.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261887/Heritage_Haven-_Outside_and_Roof_7_cfnwps.webp"
-    ],
-    "Living Room": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261930/Heritage_Haven-_Living_Room_24_otd1ha.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261928/Heritage_Haven-_Living_Room_21_v43v7j.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_19_lmhmnk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261926/Heritage_Haven-_Living_Room_23_bhzqta.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261925/Heritage_Haven-_Living_Room_22_m8z74b.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261925/Heritage_Haven-_Living_Room_18_oxqh7y.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261923/Heritage_Haven-_Living_Room_26_ajpgzp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261921/Heritage_Haven-_Living_Room_7_fmpdhf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261920/Heritage_Haven-_Living_Room_8_oylu8p.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261919/Heritage_Haven-_Living_Room_16_svzdzk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_6_sbtvqv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_2_ubmunf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_10_rnfndg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261915/Heritage_Haven-_Living_Room_3_hqd2kh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261913/Heritage_Haven-_Living_Room_ugfmav.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261913/Heritage_Haven-_Living_Room_4_ghnn7d.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261912/Heritage_Haven-_Living_Room_11_ydrz1t.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261911/Heritage_Haven-_Living_Room_13_zptpr6.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261911/Heritage_Haven-_Living_Room_17_ztll5v.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261910/Heritage_Haven-_Living_Room_14_aq4qxo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261908/Heritage_Haven-_Living_Room_12_rcjd4c.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261908/Heritage_Haven-_Living_Room_1_ko6d90.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261906/Heritage_Haven-_Living_Room_9_qrbyoo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261904/Heritage_Haven-_Living_Room_15_qhrntf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261904/Heritage_Haven-_Living_Room_5_xixnje.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261903/Heritage_Haven-_Living_Room_25_zvaz9j.webp"
-    ],
-    "Room 1": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261949/Heritage_Haven-_Room1_5_ai4oq3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261947/Heritage_Haven-_Room1_6_m4rcrs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261947/Heritage_Haven-_Room1_7_ynae91.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261945/Heritage_Haven-_Room1_qznhox.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261945/Heritage_Haven-_Room1_3_xmw5ez.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261944/Heritage_Haven-_Room1_1_hcru5p.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261943/Heritage_Haven-_Room1_2_czsetg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261942/Heritage_Haven-_Room1_4_uwfv4a.webp"
-    ],
-    "Room 2": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261902/Heritage_Haven-_Room2_4_j489wc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261902/Heritage_Haven-_Room2_2_bkdeju.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261900/Heritage_Haven-_Room2_5_glazyx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261899/Heritage_Haven-_Room2_6_g87v1n.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261898/Heritage_Haven-_Room2_1_uycqzp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261896/Heritage_Haven-_Room2_zbzuvg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261895/Heritage_Haven-_Room2_3_rnltme.webp"
-    ],
-    "Room 3": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261888/Heritage_Haven-_Room3_11_wdoqef.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261885/Heritage_Haven-_Room3_14_pjxln5.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261884/Heritage_Haven-_Room3_12_oqkhkc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261883/Heritage_Haven-_Room3_7_ndf6zh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261882/Heritage_Haven-_Room3_8_yfa1wn.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261881/Heritage_Haven-_Room3_5_ydsb2n.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261879/Heritage_Haven-_Room3_6_eqyv0f.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261878/Heritage_Haven-_Room3_3_bl03b9.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261878/Heritage_Haven-_Room3_9_yisnfx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261877/Heritage_Haven-_Room3_2_cm098h.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261877/Heritage_Haven-_Room3_13_t0uofv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261874/Heritage_Haven-_Room3_1_uv6cmh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261873/Heritage_Haven-_Room3_10_b3hg16.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261872/Heritage_Haven-_Room3_mywsur.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261871/Heritage_Haven-_Room3_4_o62tyg.webp"
-    ],
-    "Room 4": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261941/Heritage_Haven-_Room4_7_jcc7io.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261940/Heritage_Haven-_Room4_9_v7daaz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261938/Heritage_Haven-_Room4_4_qt2zcv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261938/Heritage_Haven-_Room4_8_nmlllh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_2_gbgsk9.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_1_bqx1uz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_6_imoo0g.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261934/Heritage_Haven-_Room4_gii8zo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_3_rgmupz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_5_c7lgtq.webp"
-    ]
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261896/Heritage_Haven-_Outside_and_Roof_waej18.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261894/Heritage_Haven-_Outside_and_Roof_4_qtdsfp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_3_nlgecc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261893/Heritage_Haven-_Outside_and_Roof_5_ue206c.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_2_ytqygr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261890/Heritage_Haven-_Outside_and_Roof_8_uehenv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261889/Heritage_Haven-_Outside_and_Roof_1_efbhzs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261889/Heritage_Haven-_Outside_and_Roof_6_swjli8.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261887/Heritage_Haven-_Outside_and_Roof_7_cfnwps.webp"
+        ],
+        "Living Room": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261930/Heritage_Haven-_Living_Room_24_otd1ha.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261928/Heritage_Haven-_Living_Room_21_v43v7j.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_20_kzv232.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261927/Heritage_Haven-_Living_Room_19_lmhmnk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261926/Heritage_Haven-_Living_Room_23_bhzqta.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261925/Heritage_Haven-_Living_Room_22_m8z74b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261925/Heritage_Haven-_Living_Room_18_oxqh7y.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261923/Heritage_Haven-_Living_Room_26_ajpgzp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261921/Heritage_Haven-_Living_Room_7_fmpdhf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261920/Heritage_Haven-_Living_Room_8_oylu8p.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261919/Heritage_Haven-_Living_Room_16_svzdzk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_6_sbtvqv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_2_ubmunf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261918/Heritage_Haven-_Living_Room_10_rnfndg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261915/Heritage_Haven-_Living_Room_3_hqd2kh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261913/Heritage_Haven-_Living_Room_ugfmav.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261913/Heritage_Haven-_Living_Room_4_ghnn7d.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261912/Heritage_Haven-_Living_Room_11_ydrz1t.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261911/Heritage_Haven-_Living_Room_13_zptpr6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261911/Heritage_Haven-_Living_Room_17_ztll5v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261910/Heritage_Haven-_Living_Room_14_aq4qxo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261908/Heritage_Haven-_Living_Room_12_rcjd4c.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261908/Heritage_Haven-_Living_Room_1_ko6d90.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261906/Heritage_Haven-_Living_Room_9_qrbyoo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261904/Heritage_Haven-_Living_Room_15_qhrntf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261904/Heritage_Haven-_Living_Room_5_xixnje.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261903/Heritage_Haven-_Living_Room_25_zvaz9j.webp"
+        ],
+        "Room 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261949/Heritage_Haven-_Room1_5_ai4oq3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261947/Heritage_Haven-_Room1_6_m4rcrs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261947/Heritage_Haven-_Room1_7_ynae91.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261945/Heritage_Haven-_Room1_qznhox.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261945/Heritage_Haven-_Room1_3_xmw5ez.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261944/Heritage_Haven-_Room1_1_hcru5p.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261943/Heritage_Haven-_Room1_2_czsetg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261942/Heritage_Haven-_Room1_4_uwfv4a.webp"
+        ],
+        "Room 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261902/Heritage_Haven-_Room2_4_j489wc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261902/Heritage_Haven-_Room2_2_bkdeju.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261900/Heritage_Haven-_Room2_5_glazyx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261899/Heritage_Haven-_Room2_6_g87v1n.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261898/Heritage_Haven-_Room2_1_uycqzp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261896/Heritage_Haven-_Room2_zbzuvg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261895/Heritage_Haven-_Room2_3_rnltme.webp"
+        ],
+        "Room 3": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261888/Heritage_Haven-_Room3_11_wdoqef.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261885/Heritage_Haven-_Room3_14_pjxln5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261884/Heritage_Haven-_Room3_12_oqkhkc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261883/Heritage_Haven-_Room3_7_ndf6zh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261882/Heritage_Haven-_Room3_8_yfa1wn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261881/Heritage_Haven-_Room3_5_ydsb2n.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261879/Heritage_Haven-_Room3_6_eqyv0f.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261878/Heritage_Haven-_Room3_3_bl03b9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261878/Heritage_Haven-_Room3_9_yisnfx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261877/Heritage_Haven-_Room3_2_cm098h.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261877/Heritage_Haven-_Room3_13_t0uofv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261874/Heritage_Haven-_Room3_1_uv6cmh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261873/Heritage_Haven-_Room3_10_b3hg16.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261872/Heritage_Haven-_Room3_mywsur.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261871/Heritage_Haven-_Room3_4_o62tyg.webp"
+        ],
+        "Room 4": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261941/Heritage_Haven-_Room4_7_jcc7io.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261940/Heritage_Haven-_Room4_9_v7daaz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261938/Heritage_Haven-_Room4_4_qt2zcv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261938/Heritage_Haven-_Room4_8_nmlllh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_2_gbgsk9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_1_bqx1uz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261936/Heritage_Haven-_Room4_6_imoo0g.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261934/Heritage_Haven-_Room4_gii8zo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_3_rgmupz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_5_c7lgtq.webp"
+        ]
       }
     },
     {
@@ -3832,6 +3929,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 593400, "firstYearReturnPercentage": 129 },
+        { "secondYearReturn": 726800, "secondYearReturnPercentage": 158 },
+        { "thirdYearReturn": 860200, "thirdYearReturnPercentage": 187 },
+        { "fourthYearReturn": 993600, "fourthYearReturnPercentage": 216 },
+        { "fifthYearReturn": 1127000, "fifthYearReturnPercentage": 245 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3875,30 +3979,30 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
       "photos": {
         "All Photos": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
         ]
       }
     },
@@ -3935,6 +4039,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 665000, "firstYearReturnPercentage": 133 },
+        { "secondYearReturn": 830000, "secondYearReturnPercentage": 166 },
+        { "thirdYearReturn": 995000, "thirdYearReturnPercentage": 199 },
+        { "fourthYearReturn": 1160000, "fourthYearReturnPercentage": 232 },
+        { "fifthYearReturn": 1350000, "fifthYearReturnPercentage": 265 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -3978,41 +4089,41 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261852/Garden_Glory_16_ewhgbi.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261852/Garden_Glory_16_ewhgbi.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_7_msprq7.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_7_msprq7.webp",
       "photos": {
         "All Photos": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261870/Garden_Glory_8_v5xrzo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261869/Garden_Glory_14_aezizm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261868/Garden_Glory_18_wlnoxa.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_15_bhuk9b.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261865/Garden_Glory_5_o7x07b.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261864/Garden_Glory_4_abbp9r.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261864/Garden_Glory_19_u7hqzx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261862/Garden_Glory_13_jxfpdn.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261860/Garden_Glory_12_hrlb1v.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261859/Garden_Glory_10_kuocsv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261858/Garden_Glory_21_l1sidz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261856/Garden_Glory_jve95x.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261856/Garden_Glory_20_kqutzi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261854/Garden_Glory_17_lnbttp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261852/Garden_Glory_16_ewhgbi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_7_msprq7.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_9_phssjd.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261850/Garden_Glory_11_yde5qw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261849/Garden_Glory_6_nbic03.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261848/Garden_Glory_3_fsycn0.webp"
-    ]
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261870/Garden_Glory_8_v5xrzo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261869/Garden_Glory_14_aezizm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261868/Garden_Glory_18_wlnoxa.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_2_keojlw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261866/Garden_Glory_15_bhuk9b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261865/Garden_Glory_5_o7x07b.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261864/Garden_Glory_4_abbp9r.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261864/Garden_Glory_19_u7hqzx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261862/Garden_Glory_13_jxfpdn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261860/Garden_Glory_12_hrlb1v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261859/Garden_Glory_10_kuocsv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261858/Garden_Glory_21_l1sidz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261857/Garden_Glory_1_oyb2ia.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261856/Garden_Glory_jve95x.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261856/Garden_Glory_20_kqutzi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261854/Garden_Glory_17_lnbttp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261852/Garden_Glory_16_ewhgbi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_7_msprq7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261851/Garden_Glory_9_phssjd.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261850/Garden_Glory_11_yde5qw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261849/Garden_Glory_6_nbic03.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261848/Garden_Glory_3_fsycn0.webp"
+        ]
       }
     },
     {
@@ -4048,6 +4159,13 @@
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
+      "returnsData": [
+        { "firstYearReturn": 501358, "firstYearReturnPercentage": 130 },
+        { "secondYearReturn": 617056, "secondYearReturnPercentage": 160 },
+        { "thirdYearReturn": 732754, "thirdYearReturnPercentage": 190 },
+        { "fourthYearReturn": 848452, "fourthYearReturnPercentage": 220 },
+        { "fifthYearReturn": 964150, "fifthYearReturnPercentage": 250 }
+      ],
       "thingsToDo": [
         {
           "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
@@ -4091,115 +4209,115 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
       "photos": {
         "Outside": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262047/Magnum_Opus-_Outside_2_eaauy7.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262045/Magnum_Opus-_Outside_zwwkui.webp"
-    ],
-    "Kitchen and Dinning Area": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262051/Magnum_Opus-_Kitchen_and_Dinning_1_odjxma.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262050/Magnum_Opus-_Kitchen_and_Dinning_2_lgq2ju.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262049/Magnum_Opus-_Kitchen_and_Dinning_doi2xm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262049/Magnum_Opus-_Kitchen_and_Dinning_3_h7w149.webp"
-    ],
-    "Living Room And Private theather": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262043/Magnum_Opus-_Private_Theatre_and_Living_Room_2_bftuhv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262043/Magnum_Opus-_Private_Theatre_and_Living_Room_suezcq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262042/Magnum_Opus-_Private_Theatre_and_Living_Room_1_fe6lwi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262041/Magnum_Opus-_Private_Theatre_and_Living_Room_4_j9q584.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262040/Magnum_Opus-_Private_Theatre_and_Living_Room_6_imdb5f.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262040/Magnum_Opus-_Private_Theatre_and_Living_Room_3_t7kaqa.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262036/Magnum_Opus-_Private_Theatre_and_Living_Room_9_vin7el.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_8_fksqkj.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_10_vh82ch.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262032/Magnum_Opus-_Private_Theatre_and_Living_Room_5_tatx4h.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262031/Magnum_Opus-_Private_Theatre_and_Living_Room_11_p7euyu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262029/Magnum_Opus-_Private_Theatre_and_Living_Room_13_is2mkh.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262028/Magnum_Opus-_Private_Theatre_and_Living_Room_12_qxbfd1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262027/Magnum_Opus-_Private_Theatre_and_Living_Room_18_dfa0ud.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262027/Magnum_Opus-_Private_Theatre_and_Living_Room_16_uhfliu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262025/Magnum_Opus-_Private_Theatre_and_Living_Room_17_zojswj.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262024/Magnum_Opus-_Private_Theatre_and_Living_Room_15_exgngc.webp"
-    ],
-    "Room 1": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262023/Magnum_Opus-_Room1_1_v6iq71.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262022/Magnum_Opus-_Room1_2_v8pfbl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262020/Magnum_Opus-_Room1_8_u1i3pw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262019/Magnum_Opus-_Room1_6_ztaco2.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262019/Magnum_Opus-_Room1_3_we0es0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262018/Magnum_Opus-_Room1_5_yzvxeq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262018/Magnum_Opus-_Room1_4_q6hr0k.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262015/Magnum_Opus-_Room1_7_sv790y.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262014/Magnum_Opus-_Room1_dtaegs.webp"
-    ],
-    "Room 2": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261997/Magnum_Opus-_Room2_1_lckgxx.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261996/Magnum_Opus-_Room2_3_lfl05k.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261994/Magnum_Opus-_Room2_5_xapnv2.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261993/Magnum_Opus-_Room2_smn87l.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261992/Magnum_Opus-_Room2_2_rdgc0r.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261991/Magnum_Opus-_Room2_7_dmkyif.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261990/Magnum_Opus-_Room2_4_f7ivlf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261990/Magnum_Opus-_Room2_6_gbrqwe.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261988/Magnum_Opus-_Room2_11_xktbm0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261987/Magnum_Opus-_Room2_10_ffsofg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261985/Magnum_Opus-_Room2_8_f251lv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261985/Magnum_Opus-_Room2_9_uzledo.webp"
-    ],
-    "Room 3": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262001/Magnum_Opus-_Room3_vslgwv.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262000/Magnum_Opus-_Room3_3_plj1na.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261999/Magnum_Opus-_Room3_2_d02lly.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261998/Magnum_Opus-_Room3_1_umvn3j.webp"
-    ],
-    "Room 4": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262013/Magnum_Opus-_Room4_5_a6iyoq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262012/Magnum_Opus-_Room4_2_aqfgkp.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262011/Magnum_Opus-_Room4_hxipm0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262011/Magnum_Opus-_Room4_3_bpqgiw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262008/Magnum_Opus-_Room4_1_udljn0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262007/Magnum_Opus-_Room4_6_h3u9ya.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262007/Magnum_Opus-_Room4_4_ztcbp3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262005/Magnum_Opus-_Room4_8_clzigt.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262005/Magnum_Opus-_Room4_7_deq5vf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262003/Magnum_Opus-_Room4_9_ofhtgl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262002/Magnum_Opus-_Room4_10_e3i8lf.webp"
-    ],
-    "Room 5": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261984/Magnum_Opus-_Room5_2_pnxmbf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261982/Magnum_Opus-_Room5_fuifjo.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261981/Magnum_Opus-_Room5_1_smvdrk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261981/Magnum_Opus-_Room5_8_jxfsv0.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261980/Magnum_Opus-_Room5_11_r5mabs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261978/Magnum_Opus-_Room5_7_uexilk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261977/Magnum_Opus-_Room5_6_k9loel.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261976/Magnum_Opus-_Room5_3_xjaoeb.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261975/Magnum_Opus-_Room5_13_pdxhan.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261975/Magnum_Opus-_Room5_4_g59clc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261974/Magnum_Opus-_Room5_14_fpujvu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261972/Magnum_Opus-_Room5_16_yqozfe.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261971/Magnum_Opus-_Room5_12_qe36ql.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261970/Magnum_Opus-_Room5_15_hgjizg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261970/Magnum_Opus-_Room5_10_gqh5q9.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261968/Magnum_Opus-_Room5_9_w4tc7a.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_5_bfnswg.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_17_fwheyl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_18_bivz9s.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261964/Magnum_Opus-_Room5_20_tcmgn5.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Magnum_Opus-_Room5_19_wvwag3.webp"
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262047/Magnum_Opus-_Outside_2_eaauy7.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262046/Magnum_Opus-_Outside_1_zdnlcx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262045/Magnum_Opus-_Outside_zwwkui.webp"
+        ],
+        "Kitchen and Dinning Area": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262051/Magnum_Opus-_Kitchen_and_Dinning_1_odjxma.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262050/Magnum_Opus-_Kitchen_and_Dinning_2_lgq2ju.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262049/Magnum_Opus-_Kitchen_and_Dinning_doi2xm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262049/Magnum_Opus-_Kitchen_and_Dinning_3_h7w149.webp"
+        ],
+        "Living Room And Private theather": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262043/Magnum_Opus-_Private_Theatre_and_Living_Room_2_bftuhv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262043/Magnum_Opus-_Private_Theatre_and_Living_Room_suezcq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262042/Magnum_Opus-_Private_Theatre_and_Living_Room_1_fe6lwi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262041/Magnum_Opus-_Private_Theatre_and_Living_Room_4_j9q584.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262040/Magnum_Opus-_Private_Theatre_and_Living_Room_6_imdb5f.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262040/Magnum_Opus-_Private_Theatre_and_Living_Room_3_t7kaqa.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262038/Magnum_Opus-_Private_Theatre_and_Living_Room_7_f2fe3r.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262036/Magnum_Opus-_Private_Theatre_and_Living_Room_9_vin7el.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_8_fksqkj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_14_zek8gt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262034/Magnum_Opus-_Private_Theatre_and_Living_Room_10_vh82ch.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262032/Magnum_Opus-_Private_Theatre_and_Living_Room_5_tatx4h.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262031/Magnum_Opus-_Private_Theatre_and_Living_Room_11_p7euyu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262029/Magnum_Opus-_Private_Theatre_and_Living_Room_13_is2mkh.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262028/Magnum_Opus-_Private_Theatre_and_Living_Room_12_qxbfd1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262027/Magnum_Opus-_Private_Theatre_and_Living_Room_18_dfa0ud.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262027/Magnum_Opus-_Private_Theatre_and_Living_Room_16_uhfliu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262025/Magnum_Opus-_Private_Theatre_and_Living_Room_17_zojswj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262024/Magnum_Opus-_Private_Theatre_and_Living_Room_15_exgngc.webp"
+        ],
+        "Room 1": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262023/Magnum_Opus-_Room1_1_v6iq71.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262022/Magnum_Opus-_Room1_2_v8pfbl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262020/Magnum_Opus-_Room1_8_u1i3pw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262019/Magnum_Opus-_Room1_6_ztaco2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262019/Magnum_Opus-_Room1_3_we0es0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262018/Magnum_Opus-_Room1_5_yzvxeq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262018/Magnum_Opus-_Room1_4_q6hr0k.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262015/Magnum_Opus-_Room1_7_sv790y.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262014/Magnum_Opus-_Room1_dtaegs.webp"
+        ],
+        "Room 2": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261997/Magnum_Opus-_Room2_1_lckgxx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261996/Magnum_Opus-_Room2_3_lfl05k.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261994/Magnum_Opus-_Room2_5_xapnv2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261993/Magnum_Opus-_Room2_smn87l.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261992/Magnum_Opus-_Room2_2_rdgc0r.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261991/Magnum_Opus-_Room2_7_dmkyif.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261990/Magnum_Opus-_Room2_4_f7ivlf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261990/Magnum_Opus-_Room2_6_gbrqwe.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261988/Magnum_Opus-_Room2_11_xktbm0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261987/Magnum_Opus-_Room2_10_ffsofg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261985/Magnum_Opus-_Room2_8_f251lv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261985/Magnum_Opus-_Room2_9_uzledo.webp"
+        ],
+        "Room 3": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262001/Magnum_Opus-_Room3_vslgwv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262000/Magnum_Opus-_Room3_3_plj1na.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261999/Magnum_Opus-_Room3_2_d02lly.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261998/Magnum_Opus-_Room3_1_umvn3j.webp"
+        ],
+        "Room 4": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262013/Magnum_Opus-_Room4_5_a6iyoq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262012/Magnum_Opus-_Room4_2_aqfgkp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262011/Magnum_Opus-_Room4_hxipm0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262011/Magnum_Opus-_Room4_3_bpqgiw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262008/Magnum_Opus-_Room4_1_udljn0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262007/Magnum_Opus-_Room4_6_h3u9ya.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262007/Magnum_Opus-_Room4_4_ztcbp3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262005/Magnum_Opus-_Room4_8_clzigt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262005/Magnum_Opus-_Room4_7_deq5vf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262003/Magnum_Opus-_Room4_9_ofhtgl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727262002/Magnum_Opus-_Room4_10_e3i8lf.webp"
+        ],
+        "Room 5": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261984/Magnum_Opus-_Room5_2_pnxmbf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261982/Magnum_Opus-_Room5_fuifjo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261981/Magnum_Opus-_Room5_1_smvdrk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261981/Magnum_Opus-_Room5_8_jxfsv0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261980/Magnum_Opus-_Room5_11_r5mabs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261978/Magnum_Opus-_Room5_7_uexilk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261977/Magnum_Opus-_Room5_6_k9loel.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261976/Magnum_Opus-_Room5_3_xjaoeb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261975/Magnum_Opus-_Room5_13_pdxhan.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261975/Magnum_Opus-_Room5_4_g59clc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261974/Magnum_Opus-_Room5_14_fpujvu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261972/Magnum_Opus-_Room5_16_yqozfe.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261971/Magnum_Opus-_Room5_12_qe36ql.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261970/Magnum_Opus-_Room5_15_hgjizg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261970/Magnum_Opus-_Room5_10_gqh5q9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261968/Magnum_Opus-_Room5_9_w4tc7a.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_5_bfnswg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_17_fwheyl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261966/Magnum_Opus-_Room5_18_bivz9s.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261964/Magnum_Opus-_Room5_20_tcmgn5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Magnum_Opus-_Room5_19_wvwag3.webp"
         ]
       }
     }
