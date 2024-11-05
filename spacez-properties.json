@@ -4225,11 +4225,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 385660, "percentage": 0 },
-        { "return": 501358, "percentage": 130 },
-        { "return": 617056, "percentage": 160 },
-        { "return": 732754, "percentage": 190 },
-        { "return": 848452, "percentage": 220 },
-        { "return": 964150, "percentage": 250 }
+        { "return": 489788, "percentage": 127 },
+        { "return": 593916, "percentage": 154 },
+        { "return": 698044, "percentage": 181 },
+        { "return": 802172, "percentage": 208 },
+        { "return": 906301, "percentage": 235 }
       ],
       "thingsToDo": [
         {
