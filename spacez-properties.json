@@ -3103,11 +3103,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 355000, "percentage": 0 },
-        { "return": 630000, "percentage": 126 },
-        { "return": 760000, "percentage": 152 },
-        { "return": 890000, "percentage": 178 },
-        { "return": 1020000, "percentage": 204 },
-        { "return": 1150000, "percentage": 230 }
+        { "return": 447300, "percentage": 126 },
+        { "return": 539600, "percentage": 152 },
+        { "return": 631900, "percentage": 178 },
+        { "return": 724200, "percentage": 204 },
+        { "return": 816500, "percentage": 230 }
       ],
       "thingsToDo": [
         {
@@ -3290,11 +3290,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 275410, "percentage": 0 },
-        { "return": 1040000, "percentage": 130 },
-        { "return": 1280000, "percentage": 160 },
-        { "return": 1520000, "percentage": 190 },
-        { "return": 1760000, "percentage": 220 },
-        { "return": 2000000, "percentage": 250 }
+        { "return": 347016, "percentage": 130 },
+        { "return": 418623, "percentage": 160 },
+        { "return": 490229, "percentage": 190 },
+        { "return": 561836, "percentage": 220 },
+        { "return": 633443, "percentage": 250 }
       ],
       "thingsToDo": [
         {
@@ -3432,11 +3432,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 302660, "percentage": 0 },
-        { "return": 1048000, "percentage": 131 },
-        { "return": 1296000, "percentage": 162 },
-        { "return": 1544000, "percentage": 193 },
-        { "return": 1792000, "percentage": 224 },
-        { "return": 2040000, "percentage": 255 }
+        { "return": 387404, "percentage": 156 },
+        { "return": 472149, "percentage": 184 },
+        { "return": 556894, "percentage": 212 },
+        { "return": 641639, "percentage": 240 },
+        { "return": 726384, "percentage": 268 }
       ],
       "thingsToDo": [
         {
@@ -3619,11 +3619,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 490863, "percentage": 0 },
-        { "return": 215033, "percentage": 44 },
-        { "return": 430065, "percentage": 88 },
-        { "return": 645098, "percentage": 132 },
-        { "return": 860130, "percentage": 176 },
-        { "return": 1075163, "percentage": 220 }
+        { "return": 618487, "percentage": 126 },
+        { "return": 746111, "percentage": 152 },
+        { "return": 873736, "percentage": 178 },
+        { "return": 1001360, "percentage": 204 },
+        { "return": 1128984, "percentage": 230 }
       ],
       "thingsToDo": [
         {
@@ -3799,11 +3799,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 498910, "percentage": 0 },
-        { "return": 658561, "percentage": 132 },
-        { "return": 812812, "percentage": 164 },
-        { "return": 977863, "percentage": 196 },
-        { "return": 1137514, "percentage": 228 },
-        { "return": 1297166, "percentage": 260 }
+        { "return": 648583, "percentage": 130 },
+        { "return": 798256, "percentage": 160 },
+        { "return": 947929, "percentage": 190 },
+        { "return": 1097602, "percentage": 220 },
+        { "return": 1247275, "percentage": 250 }
       ],
       "thingsToDo": [
         {
@@ -3987,11 +3987,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 509364, "percentage": 0 },
-        { "return": 593400, "percentage": 129 },
-        { "return": 726800, "percentage": 158 },
-        { "return": 860200, "percentage": 187 },
-        { "return": 993600, "percentage": 216 },
-        { "return": 1127000, "percentage": 245 }
+        { "return": 672360, "percentage": 132 },
+        { "return": 835356, "percentage": 164 },
+        { "return": 998353, "percentage": 196 },
+        { "return": 1161349, "percentage": 228 },
+        { "return": 1324346, "percentage": 260 }
       ],
       "thingsToDo": [
         {
@@ -4101,11 +4101,11 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 341410, "percentage": 0 },
-        { "return": 665000, "percentage": 133 },
-        { "return": 830000, "percentage": 166 },
-        { "return": 995000, "percentage": 199 },
-        { "return": 1160000, "percentage": 232 },
-        { "return": 1350000, "percentage": 265 }
+        { "return": 443833, "percentage": 130 },
+        { "return": 546256, "percentage": 160 },
+        { "return": 648679, "percentage": 190 },
+        { "return": 751102, "percentage": 210 },
+        { "return": 853525, "percentage": 240 }
       ],
       "thingsToDo": [
         {
