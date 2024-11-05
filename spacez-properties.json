@@ -3792,7 +3792,7 @@
       "totalSlots": 4,
       "availableSlots": 2,
       "ownerDeposit": 850000,
-      "expectedReturns": "30%",
+      "expectedReturns": "28%",
       "occupancyRate": "85%",
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
