@@ -4212,6 +4212,153 @@
         ]
       }
     },
+
+    {
+      "id": "lagoon-luxe",
+      "propertyId": "LLPV0008",
+      "name": "Lagoon Luxe",
+      "type": "Villa",
+      "description": "5 BHK House with Terrace Pool: Welcome to Lagoon Luxe, an exquisite independent villa located in the prestigious RustumJi Villa's layout in Whitefield. This luxurious 5 BHK house offers a perfect blend of comfort and elegance, providing ample space for relaxation and entertainment.",
+      "noOfGuests": 16,
+      "noOfBedrooms": 5,
+      "noOfBeds": 5,
+      "noOfBathrooms": 5,
+      "rating": 5,
+      "price": "19750",
+      "locationDescription": "Whitefield, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
+      "mapCoordinates": "12.967190777842118, 77.75268415341696",
+      "lat": 12.967190777842118,
+      "lng": 77.75268415341696,
+      "isActive": true,
+      "address": "21, Rustumji Villa's Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "location": "Whitefield, Bengaluru",
+      "city": "Bengaluru",
+      "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012926/blr_1_ytt2vi.png",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.airbnb.co.in/rooms/1217472272670428531?source_impression_id=p3_1723027606_P3OBAgukTiA6QXNd",
+      "costPerSlot": 509364,
+      "setupCost": 1500000,
+      "totalSlots": 5,
+      "availableSlots": 3,
+      "ownerDeposit": 825000,
+      "expectedReturns": "32%",
+      "occupancyRate": "85%",
+      "isInvestmentAvailable": true,
+      "facilitationCost": 15000,
+      "leasedDuration": "3 years",
+      "returnsData": [
+        { "return": 509364, "percentage": 0 },
+        { "return": 672360, "percentage": 132 },
+        { "return": 835356, "percentage": 164 },
+        { "return": 998353, "percentage": 196 },
+        { "return": 1161349, "percentage": 228 },
+        { "return": 1324346, "percentage": 260 }
+      ],
+      "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Elegant 5 bedroom villa with a courtyard ",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Ample space with 2800 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Surroundings",
+          "description": "Great for family get-togethers, group trips, or any special occasion!",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "A terrace swimming pool with stunning views, spacious halls for socialising and relaxation",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899268/icons8-pool-100_nyspc6.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "In a prime location of Whitefield near Serene Rustomji Villa's Layout",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "6-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311436/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_8_u8v0hl.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311438/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_5_kwmolv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311424/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_3_x3xu04.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311483/Lagoon_Luxe_-_Kitchen_Dinning_Room_1_fvjkbt.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311119/Lagoon_Luxe_-_Living_room_3_and_TV_Room_tzb1k0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311094/Lagoon_Luxe_-_Room_2_cnni7m.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
+      "photos": {
+        "All Photos": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
+        ]
+      }
+    },
     {
       "id": "heritage-haven",
       "propertyId": "HHLV007",
@@ -4431,153 +4578,7 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_5_c7lgtq.webp"
         ]
       }
-    },
-    {
-      "id": "lagoon-luxe",
-      "propertyId": "LLPV0008",
-      "name": "Lagoon Luxe",
-      "type": "Villa",
-      "description": "5 BHK House with Terrace Pool: Welcome to Lagoon Luxe, an exquisite independent villa located in the prestigious RustumJi Villa's layout in Whitefield. This luxurious 5 BHK house offers a perfect blend of comfort and elegance, providing ample space for relaxation and entertainment.",
-      "noOfGuests": 16,
-      "noOfBedrooms": 5,
-      "noOfBeds": 5,
-      "noOfBathrooms": 5,
-      "rating": 5,
-      "price": "19750",
-      "locationDescription": "Whitefield, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
-      "mapCoordinates": "12.967190777842118, 77.75268415341696",
-      "lat": 12.967190777842118,
-      "lng": 77.75268415341696,
-      "isActive": true,
-      "address": "21, Rustumji Villa's Whitefield Main Road, Bengaluru, Karnataka 560066",
-      "location": "Whitefield, Bengaluru",
-      "city": "Bengaluru",
-      "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012926/blr_1_ytt2vi.png",
-      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
-      "link": "https://www.airbnb.co.in/rooms/1217472272670428531?source_impression_id=p3_1723027606_P3OBAgukTiA6QXNd",
-      "costPerSlot": 509364,
-      "setupCost": 1500000,
-      "totalSlots": 5,
-      "availableSlots": 3,
-      "ownerDeposit": 825000,
-      "expectedReturns": "32%",
-      "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
-      "facilitationCost": 15000,
-      "leasedDuration": "3 years",
-      "returnsData": [
-        { "return": 509364, "percentage": 0 },
-        { "return": 672360, "percentage": 132 },
-        { "return": 835356, "percentage": 164 },
-        { "return": 998353, "percentage": 196 },
-        { "return": 1161349, "percentage": 228 },
-        { "return": 1324346, "percentage": 260 }
-      ],
-      "highlights": [
-        {
-          "title": "Bedrooms",
-          "description": "Elegant 5 bedroom villa with a courtyard ",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
-        },
-        {
-          "title": "Carpet Area",
-          "description": "Ample space with 2800 sq. ft. property",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
-        },
-        {
-          "title": "Surroundings",
-          "description": "Great for family get-togethers, group trips, or any special occasion!",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
-        },
-        {
-          "title": "Spaces",
-          "description": "A terrace swimming pool with stunning views, spacious halls for socialising and relaxation",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899268/icons8-pool-100_nyspc6.png"
-        },
-        {
-          "title": "Proximity",
-          "description": "In a prime location of Whitefield near Serene Rustomji Villa's Layout",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
-        },
-        {
-          "title": "Best Value",
-          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
-        }
-      ],
-      "thingsToDo": [
-        {
-          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
-          "name": "Xyz Park",
-          "description": "Tourist Destination",
-          "distance": "2 km"
-        },
-        {
-          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
-          "name": "Xyz Park",
-          "description": "Tourist Destination",
-          "distance": "2 km"
-        }
-      ],
-      "amenities": [
-        "hair-dryer",
-        "shampoo",
-        "dryer",
-        "body-soap",
-        "bidet",
-        "shower-gel",
-        "hot-water",
-        "washing-machine",
-        "bed-sheets",
-        "towels",
-        "toilet-paper",
-        "bed-linen",
-        "drying-rack",
-        "iron",
-        "air-conditioning",
-        "wifi",
-        "fire-extinguisher",
-        "refrigerator"
-      ],
-      "houseRules": [
-        "check-in",
-        "check-out",
-        "self-check-in",
-        "pets-allowed",
-        "6-guests-maximum"
-      ],
-      "commonImages": [
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
-      ],
-      "heroImages": [
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311436/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_8_u8v0hl.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311438/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_5_kwmolv.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311424/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_3_x3xu04.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311483/Lagoon_Luxe_-_Kitchen_Dinning_Room_1_fvjkbt.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311119/Lagoon_Luxe_-_Living_room_3_and_TV_Room_tzb1k0.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311094/Lagoon_Luxe_-_Room_2_cnni7m.webp"
-      ],
-      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
-      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
-      "photos": {
-        "All Photos": [
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
-        ]
-      }
-    },
+    },    
     {
       "id": "garden-glory",
       "propertyId": "GG0006",
