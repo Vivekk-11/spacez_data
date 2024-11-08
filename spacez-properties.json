@@ -332,40 +332,40 @@
       "leasedDuration": "5 years",
       "returnsData": [
         {
-          "return": 0,
+          "return": 306250,
           "percentage": 0,
-          "returnWithLockIn": 0,
+          "returnWithLockIn": 306250,
           "percentageWithLockIn": 0
         },
         {
-          "return": 436105,
-          "percentage": 127,
-          "returnWithLockIn": 0,
-          "percentageWithLockIn": 0
+          "return": 388937,
+          "percentage": 128,
+          "returnWithLockIn": 388937,
+          "percentageWithLockIn": 128
         },
         {
-          "return": 528820,
+          "return": 471625,
           "percentage": 154,
-          "returnWithLockIn": 0,
-          "percentageWithLockIn": 0
+          "returnWithLockIn": 493950,
+          "percentageWithLockIn": 161
         },
         {
-          "return": 621535,
+          "return": 554312,
           "percentage": 181,
-          "returnWithLockIn": 0,
-          "percentageWithLockIn": 0
+          "returnWithLockIn": 627317,
+          "percentageWithLockIn": 204
         },
         {
-          "return": 714250,
+          "return": 637000,
           "percentage": 208,
-          "returnWithLockIn": 0,
-          "percentageWithLockIn": 0
+          "returnWithLockIn": 796692,
+          "percentageWithLockIn": 260
         },
         {
-          "return": 806965,
+          "return": 719687,
           "percentage": 235,
-          "returnWithLockIn": 0,
-          "percentageWithLockIn": 0
+          "returnWithLockIn": 1011800,
+          "percentageWithLockIn": 330
         }
       ],
       "highlights": [
