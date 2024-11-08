@@ -331,12 +331,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 0, "percentage": 0 },
-        { "return": 436105, "percentage": 127 },
-        { "return": 528820, "percentage": 154 },
-        { "return": 621535, "percentage": 181 },
-        { "return": 714250, "percentage": 208 },
-        { "return": 806965, "percentage": 235 }
+        {
+          "return": 0,
+          "percentage": 0,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 436105,
+          "percentage": 127,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 528820,
+          "percentage": 154,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 621535,
+          "percentage": 181,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 714250,
+          "percentage": 208,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 806965,
+          "percentage": 235,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        }
       ],
       "highlights": [
         {
