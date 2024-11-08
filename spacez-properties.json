@@ -838,7 +838,7 @@
         { "return": 740408, "percentage": 166 },
         { "return": 887597, "percentage": 199 },
         { "return": 1034786, "percentage": 232 },
-        { "return": 1181975, "percentage": 26 }
+        { "return": 1181975, "percentage": 266 }
       ],
       "highlights": [
         {
@@ -3444,11 +3444,11 @@
       "costPerSlot": 355000,
       "setupCost": 1000000,
       "totalSlots": 4,
-      "availableSlots": 3,
+      "availableSlots": 0,
       "ownerDeposit": 420000,
       "expectedReturns": "26%",
       "occupancyRate": "73%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -3462,32 +3462,32 @@
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Elegant 4 bedroom villa constructed as a mansion ",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Spacious 2800 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+          "title": "Pet Friendly",
+          "description": "One of rare pet friendly villa making it ideal for niche guests",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730896500/icons8-pet-100_1_u1bal7.png"
         },
         {
-          "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
+          "title": "Spaces",
+          "description": "Ideal for family gatherings, group retreats, or special celebrations",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of HSR near the startup hub",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -3663,7 +3663,7 @@
       "costPerSlot": 275410,
       "setupCost": 600000,
       "totalSlots": 4,
-      "availableSlots": 4,
+      "availableSlots": 2,
       "ownerDeposit": 250000,
       "expectedReturns": "26%",
       "occupancyRate": "85%",
@@ -3672,41 +3672,42 @@
       "leasedDuration": "3 years",
       "returnsData": [
         { "return": 275410, "percentage": 0 },
-        { "return": 347016, "percentage": 130 },
-        { "return": 418623, "percentage": 160 },
-        { "return": 490229, "percentage": 190 },
-        { "return": 561836, "percentage": 220 },
-        { "return": 633443, "percentage": 250 }
+        { "return": 347016, "percentage": 126 },
+        { "return": 418623, "percentage": 152 },
+        { "return": 490229, "percentage": 178 },
+        { "return": 561836, "percentage": 204 },
+        { "return": 633443, "percentage": 230 }
       ],
+
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Stylish and chic villa with two bedrooms offering the perfect blend of luxury and comfort",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Spacious 1400 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+          "title": "Budget Friendly",
+          "description": "Rare property with under 3 lakh investment",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730897077/icons8-budget-100_puzmim.png"
         },
         {
-          "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
+          "title": "Spaces",
+          "description": "With a private balcony perfect spot for get togethers",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of Andheri West near the studio hub",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹7 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -3837,11 +3838,11 @@
       "costPerSlot": 302660,
       "setupCost": 600000,
       "totalSlots": 4,
-      "availableSlots": 2,
+      "availableSlots": 0,
       "ownerDeposit": 375000,
       "expectedReturns": "28%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -3855,32 +3856,32 @@
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Comfortable 4 bedroom villa",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Spacious 1900 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+          "title": "Budget Friendly",
+          "description": "Rare property with under 4 lakh investment",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730897077/icons8-budget-100_puzmim.png"
         },
         {
-          "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+          "title": "Spaces",
+          "description": "Park front property ideal for guests",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730897307/icons8-tree-100_iw7taz.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of Koramangala near the office hub",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹5.5 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -4056,11 +4057,11 @@
       "costPerSlot": 490863,
       "setupCost": 1000000,
       "totalSlots": 4,
-      "availableSlots": 1,
+      "availableSlots": 0,
       "ownerDeposit": 750000,
       "expectedReturns": "26%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -4074,32 +4075,32 @@
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Premium property with 5 luxurious bedroom",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Spacious 2500 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+          "title": "Spaces",
+          "description": "Equipped with a serene terrace, a lush garden, and a relaxing deck",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730897307/icons8-tree-100_iw7taz.png"
         },
         {
           "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
+          "description": "Ideal for family gatherings, group retreats, or special celebrations",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a ultra prime location of billionaire street in koramangala",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹8.5 Cr., an ideal investment opportunity",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -4242,6 +4243,153 @@
         ]
       }
     },
+
+    {
+      "id": "lagoon-luxe",
+      "propertyId": "LLPV0008",
+      "name": "Lagoon Luxe",
+      "type": "Villa",
+      "description": "5 BHK House with Terrace Pool: Welcome to Lagoon Luxe, an exquisite independent villa located in the prestigious RustumJi Villa's layout in Whitefield. This luxurious 5 BHK house offers a perfect blend of comfort and elegance, providing ample space for relaxation and entertainment.",
+      "noOfGuests": 16,
+      "noOfBedrooms": 5,
+      "noOfBeds": 5,
+      "noOfBathrooms": 5,
+      "rating": 5,
+      "price": "19750",
+      "locationDescription": "Whitefield, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
+      "mapCoordinates": "12.967190777842118, 77.75268415341696",
+      "lat": 12.967190777842118,
+      "lng": 77.75268415341696,
+      "isActive": true,
+      "address": "21, Rustumji Villa's Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "location": "Whitefield, Bengaluru",
+      "city": "Bengaluru",
+      "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012926/blr_1_ytt2vi.png",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.airbnb.co.in/rooms/1217472272670428531?source_impression_id=p3_1723027606_P3OBAgukTiA6QXNd",
+      "costPerSlot": 509364,
+      "setupCost": 1500000,
+      "totalSlots": 5,
+      "availableSlots": 3,
+      "ownerDeposit": 825000,
+      "expectedReturns": "32%",
+      "occupancyRate": "85%",
+      "isInvestmentAvailable": true,
+      "facilitationCost": 15000,
+      "leasedDuration": "3 years",
+      "returnsData": [
+        { "return": 509364, "percentage": 0 },
+        { "return": 672360, "percentage": 132 },
+        { "return": 835356, "percentage": 164 },
+        { "return": 998353, "percentage": 196 },
+        { "return": 1161349, "percentage": 228 },
+        { "return": 1324346, "percentage": 260 }
+      ],
+      "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Elegant 5 bedroom villa with a courtyard ",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Ample space with 2800 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Surroundings",
+          "description": "Great for family get-togethers, group trips, or any special occasion!",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "A terrace swimming pool with stunning views, spacious halls for socialising and relaxation",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899268/icons8-pool-100_nyspc6.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "In a prime location of Whitefield near Serene Rustomji Villa's Layout",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "6-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311436/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_8_u8v0hl.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311438/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_5_kwmolv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311424/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_3_x3xu04.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311483/Lagoon_Luxe_-_Kitchen_Dinning_Room_1_fvjkbt.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311119/Lagoon_Luxe_-_Living_room_3_and_TV_Room_tzb1k0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311094/Lagoon_Luxe_-_Room_2_cnni7m.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
+      "photos": {
+        "All Photos": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
+        ]
+      }
+    },
     {
       "id": "heritage-haven",
       "propertyId": "HHLV007",
@@ -4268,11 +4416,11 @@
       "costPerSlot": 498910,
       "setupCost": 1000000,
       "totalSlots": 4,
-      "availableSlots": 1,
+      "availableSlots": 0,
       "ownerDeposit": 650000,
       "expectedReturns": "30%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -4286,32 +4434,32 @@
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Elegant 4 bedroom villa with esquite historic artworks ",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Spacious 3000 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
+          "title": "Spaces",
+          "description": "With grandeur library, exquisite Rajasthani artwork, a grand hall for gatherings, antique furniture, and modern amenities",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
         },
         {
           "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
+          "description": "Perfect for family reunions, group getaways, corporate events, cultural ceremonies, or memorable celebrations.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of Koramangala near the Billionaires street",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹20 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -4461,153 +4609,7 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_5_c7lgtq.webp"
         ]
       }
-    },
-    {
-      "id": "lagoon-luxe",
-      "propertyId": "LLPV0008",
-      "name": "Lagoon Luxe",
-      "type": "Villa",
-      "description": "5 BHK House with Terrace Pool: Welcome to Lagoon Luxe, an exquisite independent villa located in the prestigious RustumJi Villa's layout in Whitefield. This luxurious 5 BHK house offers a perfect blend of comfort and elegance, providing ample space for relaxation and entertainment.",
-      "noOfGuests": 16,
-      "noOfBedrooms": 5,
-      "noOfBeds": 5,
-      "noOfBathrooms": 5,
-      "rating": 5,
-      "price": "19750",
-      "locationDescription": "Whitefield, a vibrant locality in Bangalore, India, is famed for its blend of residential and commercial spaces. Known for upscale restaurants, cafes, and shopping centers, it’s also a tech hub with numerous startups and co-working spaces.",
-      "mapCoordinates": "12.967190777842118, 77.75268415341696",
-      "lat": 12.967190777842118,
-      "lng": 77.75268415341696,
-      "isActive": true,
-      "address": "21, Rustumji Villa's Whitefield Main Road, Bengaluru, Karnataka 560066",
-      "location": "Whitefield, Bengaluru",
-      "city": "Bengaluru",
-      "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012926/blr_1_ytt2vi.png",
-      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
-      "link": "https://www.airbnb.co.in/rooms/1217472272670428531?source_impression_id=p3_1723027606_P3OBAgukTiA6QXNd",
-      "costPerSlot": 509364,
-      "setupCost": 1500000,
-      "totalSlots": 5,
-      "availableSlots": 3,
-      "ownerDeposit": 825000,
-      "expectedReturns": "32%",
-      "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
-      "facilitationCost": 15000,
-      "leasedDuration": "3 years",
-      "returnsData": [
-        { "return": 509364, "percentage": 0 },
-        { "return": 672360, "percentage": 132 },
-        { "return": 835356, "percentage": 164 },
-        { "return": 998353, "percentage": 196 },
-        { "return": 1161349, "percentage": 228 },
-        { "return": 1324346, "percentage": 260 }
-      ],
-      "highlights": [
-        {
-          "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
-        },
-        {
-          "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
-        },
-        {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
-        },
-        {
-          "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
-        },
-        {
-          "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
-        },
-        {
-          "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
-        }
-      ],
-      "thingsToDo": [
-        {
-          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
-          "name": "Xyz Park",
-          "description": "Tourist Destination",
-          "distance": "2 km"
-        },
-        {
-          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
-          "name": "Xyz Park",
-          "description": "Tourist Destination",
-          "distance": "2 km"
-        }
-      ],
-      "amenities": [
-        "hair-dryer",
-        "shampoo",
-        "dryer",
-        "body-soap",
-        "bidet",
-        "shower-gel",
-        "hot-water",
-        "washing-machine",
-        "bed-sheets",
-        "towels",
-        "toilet-paper",
-        "bed-linen",
-        "drying-rack",
-        "iron",
-        "air-conditioning",
-        "wifi",
-        "fire-extinguisher",
-        "refrigerator"
-      ],
-      "houseRules": [
-        "check-in",
-        "check-out",
-        "self-check-in",
-        "pets-allowed",
-        "6-guests-maximum"
-      ],
-      "commonImages": [
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp"
-      ],
-      "heroImages": [
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311436/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_8_u8v0hl.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311438/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_5_kwmolv.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311424/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_3_x3xu04.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311483/Lagoon_Luxe_-_Kitchen_Dinning_Room_1_fvjkbt.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311119/Lagoon_Luxe_-_Living_room_3_and_TV_Room_tzb1k0.webp",
-        "https://res.cloudinary.com/dz3tveb47/image/upload/v1728311094/Lagoon_Luxe_-_Room_2_cnni7m.webp"
-      ],
-      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
-      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/e_improve/v1728311425/Lagoon_Luxe_-_Swimming_Pool_Exterior_Garden_2_vq1fmc.webp",
-      "photos": {
-        "All Photos": [
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Lagoon_Luxe_6_ukqeuy.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261961/Lagoon_Luxe_5_g11xgg.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261960/Lagoon_Luxe_10_ehuk3v.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_8_xsxqjn.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261959/Lagoon_Luxe_2_nutyhp.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261957/Lagoon_Luxe_11_qylkm3.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261956/Lagoon_Luxe_hnujzk.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_9_cugu22.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261954/Lagoon_Luxe_3_nmld6v.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261952/Lagoon_Luxe_1_b0xtpp.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_4_fygyf2.webp",
-          "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261951/Lagoon_Luxe_7_kauxq7.webp"
-        ]
-      }
-    },
+    },    
     {
       "id": "garden-glory",
       "propertyId": "GG0006",
@@ -4634,11 +4636,11 @@
       "costPerSlot": 341410,
       "setupCost": 800000,
       "totalSlots": 4,
-      "availableSlots": 2,
+      "availableSlots": 0,
       "ownerDeposit": 320000,
       "expectedReturns": "30%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -4657,27 +4659,27 @@
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Extensive 2800 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
+          "title": "Spaces",
+          "description": "Perfectly suited for family reunions, group retreats, or distinguished celebrations.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
         },
         {
           "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+          "description": "Garden views, a spacious living area, elegant dining with a fully equipped kitchen",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730897307/icons8-tree-100_iw7taz.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of Koramangala near the all local attractions",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
@@ -4790,11 +4792,11 @@
       "costPerSlot": 385660,
       "setupCost": 700000,
       "totalSlots": 4,
-      "availableSlots": 1,
+      "availableSlots": 0,
       "ownerDeposit": 525000,
       "expectedReturns": "27%",
       "occupancyRate": "85%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
@@ -4808,32 +4810,32 @@
       "highlights": [
         {
           "title": "Bedrooms",
-          "description": "A beautifully constructed 4 bedroom villa",
+          "description": "Lavish 5-bedroom villa designed to offer the pinnacle of luxury.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
         },
         {
           "title": "Carpet Area",
-          "description": "Spacious 2600 sq. ft. property",
+          "description": "Vast 2800 sq. ft. property",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
         },
         {
-          "title": "Surroundings",
-          "description": "Well lit, ventilated property with large windows and balconies attached to rooms.",
-          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Light_qh5153.png"
+          "title": "Spaces",
+          "description": "Private theatre for exclusive entertainment, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
         },
         {
           "title": "Facilities",
-          "description": "Co-living spaces, comfortable, hygienic, terrace suitable for gatherings and parties.",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
         },
         {
           "title": "Proximity",
-          "description": "Located very close to metro station, making it easy to reach!",
+          "description": "In a prime location of brookefield near the BEML Layout",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
         },
         {
           "title": "Best Value",
-          "description": "Property valued at ₹5 Cr., an idea investment opportunity.",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
           "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
         }
       ],
