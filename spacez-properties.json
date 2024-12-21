@@ -5188,6 +5188,209 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Magnum_Opus-_Room5_19_wvwag3.webp"
         ]
       }
+    },
+    {
+      "id": "orchid-nirvana",
+      "propertyId": "ONR004",
+      "name": "Orchid Nirvana",
+      "type": "Villa",
+      "description": "Orchid Nirvana is a modern villa designed for comfort and relaxation, located minutes from the airport in a serene setting. It features spacious living areas, a private mini pool, and three stylish bedrooms with modern amenities, making it ideal for families, friends, or business travelers. The villa includes a fully equipped kitchen, chic dining area, free Wi-Fi, laundry facilities, and private parking. Guests enjoy exclusive access to the property, with optional in-house chef services and a dedicated caretaker. Its convenient yet tranquil location makes it perfect for gatherings, intimate celebrations, or peaceful retreats.",
+      "noOfGuests": 10,
+      "noOfBedrooms": 3,
+      "noOfBeds": 3,
+      "noOfBathrooms": 3,
+      "rating": 5,
+      "price": "16430",
+      "locationDescription": "Doddacheemanahalli is a tranquil area near Devanahalli in Bangalore Rural, offering a perfect blend of natural serenity and accessibility. Surrounded by lush greenery and open spaces, it provides an idyllic escape from the city's hustle while being conveniently located near key urban amenities. The area is gaining prominence for its peaceful environment, making it an ideal destination for resorts catering to relaxation and rejuvenation. Its proximity to the Bangalore airport and major city attractions adds to its appeal for both leisure and business travelers seeking a serene retreat",
+      "mapCoordinates": "12.959253, 77.718725",
+      "lat": 13.233378037165993,
+      "lng": 77.60897899999999,
+      "isActive": true,
+      "address": "Cambridge North Campus Rd, Doddacheemanahalli, Karnataka 562110",
+      "location": "Doddacheemanahalli, Bengaluru",
+      "city": "Bengaluru",
+      "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012926/blr_1_ytt2vi.png",
+      "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
+      "link": "https://www.spacez.co/Bengaluru/Doddacheemanahalli/orchid-nirvana",
+      "costPerSlot": 385660,
+      "setupCost": 700000,
+      "totalSlots": 4,
+      "availableSlots": 0,
+      "ownerDeposit": 525000,
+      "expectedReturns": "27%",
+      "occupancyRate": "85%",
+      "isInvestmentAvailable": true,
+      "facilitationCost": 15000,
+      "leasedDuration": "3 years",
+      "returnsData": [
+        { "return": 385660, "percentage": 0,
+        "returnWithLockIn": 385660,
+        "percentageWithLockIn": 0 },
+        { "return": 489788, "percentage": 127,
+        "returnWithLockIn": 489788,
+        "percentageWithLockIn": 127 },
+        { "return": 593916, "percentage": 154,
+        "returnWithLockIn": 622031,
+        "percentageWithLockIn": 161 },
+        { "return": 698044, "percentage": 181,
+        "returnWithLockIn": 789979,
+        "percentageWithLockIn": 204 },
+        { "return": 802172, "percentage": 208,
+        "returnWithLockIn": 1003273,
+        "percentageWithLockIn": 260 },
+        { "return": 906301, "percentage": 235,
+        "returnWithLockIn": 1274157,
+        "percentageWithLockIn": 330 }
+      ],
+      "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Lavish 3-bedroom villa designed to offer the pinnacle of luxury.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Vast 2200 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "Private pool for relaxation, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
+        },
+        {
+          "title": "Facilities",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "Just on the right spot 30 mins away from the city hustle",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹7 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        },
+        {
+          "url": "https://www.treebo.com/blog/wp-content/uploads/2018/01/best-parks-in-bangalore_1.jpg",
+          "name": "Xyz Park",
+          "description": "Tourist Destination",
+          "distance": "2 km"
+        }
+      ],
+      "amenities": [
+        "hair-dryer",
+        "shampoo",
+        "dryer",
+        "body-soap",
+        "bidet",
+        "shower-gel",
+        "hot-water",
+        "washing-machine",
+        "bed-sheets",
+        "towels",
+        "toilet-paper",
+        "bed-linen",
+        "drying-rack",
+        "iron",
+        "air-conditioning",
+        "wifi",
+        "fire-extinguisher",
+        "refrigerator"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "pets-allowed",
+        "6-guests-maximum"
+      ],
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
+      ],
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
+      ],
+      "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
+      "photos": {
+        "Fire place and pool": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700993/orchid-nirvana-pool-fireplace_guxypc.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700992/orchid-nirvana-pool-fireplace_2_mcxybi.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700989/orchid-nirvana-pool-fireplace_4_ebsful.webp"
+    ],
+    "First Bedroom": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700980/orchid-nirvana-room1_5_g5tfv3.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_htlupl.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_6_jkjqit.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700978/orchid-nirvana-room1_1_asubjf.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_2_ujoode.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_4_e2qzu1.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700975/orchid-nirvana-room1_3_g7kvjn.webp"
+    ],
+    "First Living hall": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700988/orchid-nirvana-living-hall1_1_xpfarm.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp"
+    ],
+    "Kitchen and dining": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-kitchen-dinning_1_nkjetm.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700986/orchid-nirvana-kitchen-dinning_6_n7teii.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_5_kbyggs.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_emqifm.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700983/orchid-nirvana-kitchen-dinning_4_dieryu.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700981/orchid-nirvana-kitchen-dinning_3_jtd9j0.webp"
+    ],
+    "Second Bedroom": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_5_sz3o4s.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_6_woeqtb.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700967/orchid-nirvana-room2_2_rkjpan.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700966/orchid-nirvana-room2_1_xujje1.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_3_yhxfrw.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_lgg2ub.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700964/orchid-nirvana-room2_4_ywcthi.webp"
+    ],
+    "Second Living hall": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701002/orchid-nirvana-living-hall2_6_ff07mj.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701001/orchid-nirvana-living-hall2_1_o5fq0y.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701000/orchid-nirvana-living-hall2_4_hw3vu9.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700996/orchid-nirvana-living-hall2_u009r2.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_3_p9lmjk.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_5_dlgmdn.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp"
+    ],
+    "Third Bedroom": [
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_5_ouhyrz.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_4_tx25be.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_2_sf1dru.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_6_lhgdoq.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_3_cdgvdb.webp",
+      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_ekl7j4.webp"
+    ]
+      }
     }
   ],
   "propertyLocations": [
@@ -5246,6 +5449,10 @@
     {
       "key": "Mansion Bay",
       "location": { "lat": 12.915017433759, "lng": 77.64794668684124 }
+    },
+    {
+      "key": "Orchid Nirvana",
+      "location": { "lat": 13.233378037165993, "lng": 77.60897899999999 }
     }
   ]
 }
