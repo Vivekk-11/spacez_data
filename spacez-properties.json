@@ -326,7 +326,7 @@
       "availableSlots": 2,
       "ownerDeposit": 400000,
       "expectedReturns": "31.5%",
-      "occupancyRate": "85%",
+      "occupancyRate": "50%",
       "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
