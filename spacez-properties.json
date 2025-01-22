@@ -3708,7 +3708,7 @@
       "costPerSlot": 479595,
       "setupCost": 1000000,
       "totalSlots": 4,
-      "availableSlots": 0,
+      "availableSlots": 1,
       "ownerDeposit": 775000,
       "expectedReturns": "31%",
       "occupancyRate": "80%",
