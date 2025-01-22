@@ -327,28 +327,46 @@
       "ownerDeposit": 400000,
       "expectedReturns": "31.5%",
       "occupancyRate": "50%",
-      "isInvestmentAvailable": true,
+      "isInvestmentAvailable": false,
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 352200, "percentage": 0,
-        "returnWithLockIn": 352200,
-        "percentageWithLockIn": 0 },
-        { "return": 463143, "percentage": 131.5,
-        "returnWithLockIn": 463143,
-        "percentageWithLockIn": 131.5 },
-        { "return": 574086, "percentage": 163,
-        "returnWithLockIn": 609033,
-        "percentageWithLockIn": 172 },
-        { "return": 685029, "percentage": 194,
-        "returnWithLockIn": 800878,
-        "percentageWithLockIn": 227 },
-        { "return": 795972, "percentage": 226,
-        "returnWithLockIn": 1053155,
-        "percentageWithLockIn": 299 },
-        { "return": 906915, "percentage": 257,
-        "returnWithLockIn": 1384899,
-        "percentageWithLockIn": 393 }
+        {
+          "return": 352200,
+          "percentage": 0,
+          "returnWithLockIn": 352200,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 463143,
+          "percentage": 131.5,
+          "returnWithLockIn": 463143,
+          "percentageWithLockIn": 131.5
+        },
+        {
+          "return": 574086,
+          "percentage": 163,
+          "returnWithLockIn": 609033,
+          "percentageWithLockIn": 172
+        },
+        {
+          "return": 685029,
+          "percentage": 194,
+          "returnWithLockIn": 800878,
+          "percentageWithLockIn": 227
+        },
+        {
+          "return": 795972,
+          "percentage": 226,
+          "returnWithLockIn": 1053155,
+          "percentageWithLockIn": 299
+        },
+        {
+          "return": 906915,
+          "percentage": 257,
+          "returnWithLockIn": 1384899,
+          "percentageWithLockIn": 393
+        }
       ],
       "highlights": [
         {
@@ -425,79 +443,79 @@
       ],
       "commonImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
       ],
       "heroImages": [
         "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
-    "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp"
       ],
       "mainImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
       "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp",
       "photos": {
         "Fire place and pool": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700993/orchid-nirvana-pool-fireplace_guxypc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700992/orchid-nirvana-pool-fireplace_2_mcxybi.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700989/orchid-nirvana-pool-fireplace_4_ebsful.webp"
-    ],
-    "First Bedroom": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700980/orchid-nirvana-room1_5_g5tfv3.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_htlupl.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_6_jkjqit.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700978/orchid-nirvana-room1_1_asubjf.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_2_ujoode.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_4_e2qzu1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700975/orchid-nirvana-room1_3_g7kvjn.webp"
-    ],
-    "First Living hall": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700988/orchid-nirvana-living-hall1_1_xpfarm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp"
-    ],
-    "Kitchen and dining": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-kitchen-dinning_1_nkjetm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700986/orchid-nirvana-kitchen-dinning_6_n7teii.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_5_kbyggs.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_emqifm.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700983/orchid-nirvana-kitchen-dinning_4_dieryu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700981/orchid-nirvana-kitchen-dinning_3_jtd9j0.webp"
-    ],
-    "Second Bedroom": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_5_sz3o4s.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_6_woeqtb.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700967/orchid-nirvana-room2_2_rkjpan.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700966/orchid-nirvana-room2_1_xujje1.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_3_yhxfrw.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_lgg2ub.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700964/orchid-nirvana-room2_4_ywcthi.webp"
-    ],
-    "Second Living hall": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701002/orchid-nirvana-living-hall2_6_ff07mj.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701001/orchid-nirvana-living-hall2_1_o5fq0y.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701000/orchid-nirvana-living-hall2_4_hw3vu9.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700996/orchid-nirvana-living-hall2_u009r2.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_3_p9lmjk.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_5_dlgmdn.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp"
-    ],
-    "Third Bedroom": [
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_5_ouhyrz.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_4_tx25be.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_2_sf1dru.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_6_lhgdoq.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_3_cdgvdb.webp",
-      "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_ekl7j4.webp"
-    ]
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700993/orchid-nirvana-pool-fireplace_guxypc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700992/orchid-nirvana-pool-fireplace_2_mcxybi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700991/orchid-nirvana-pool-fireplace_3_vy49op.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700990/orchid-nirvana-pool-fireplace_1_wusdpl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700989/orchid-nirvana-pool-fireplace_4_ebsful.webp"
+        ],
+        "First Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700980/orchid-nirvana-room1_5_g5tfv3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_htlupl.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700979/orchid-nirvana-room1_6_jkjqit.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700978/orchid-nirvana-room1_1_asubjf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_2_ujoode.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700977/orchid-nirvana-room1_4_e2qzu1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700975/orchid-nirvana-room1_3_g7kvjn.webp"
+        ],
+        "First Living hall": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700988/orchid-nirvana-living-hall1_1_xpfarm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-living-hall1_uxf9vy.webp"
+        ],
+        "Kitchen and dining": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700987/orchid-nirvana-kitchen-dinning_1_nkjetm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700986/orchid-nirvana-kitchen-dinning_6_n7teii.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_5_kbyggs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700985/orchid-nirvana-kitchen-dinning_emqifm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700984/orchid-nirvana-kitchen-dinning_2_fro7dc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700983/orchid-nirvana-kitchen-dinning_4_dieryu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700981/orchid-nirvana-kitchen-dinning_3_jtd9j0.webp"
+        ],
+        "Second Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_5_sz3o4s.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700968/orchid-nirvana-room2_6_woeqtb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700967/orchid-nirvana-room2_2_rkjpan.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700966/orchid-nirvana-room2_1_xujje1.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_3_yhxfrw.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700965/orchid-nirvana-room2_lgg2ub.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700964/orchid-nirvana-room2_4_ywcthi.webp"
+        ],
+        "Second Living hall": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701002/orchid-nirvana-living-hall2_6_ff07mj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701001/orchid-nirvana-living-hall2_1_o5fq0y.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734701000/orchid-nirvana-living-hall2_4_hw3vu9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700996/orchid-nirvana-living-hall2_u009r2.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_3_p9lmjk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700995/orchid-nirvana-living-hall2_5_dlgmdn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700994/orchid-nirvana-living-hall2_2_ik96xf.webp"
+        ],
+        "Third Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700976/orchid-nirvana-room3_1_r2dwzu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_5_ouhyrz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700974/orchid-nirvana-room3_4_tx25be.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_2_sf1dru.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700973/orchid-nirvana-room3_6_lhgdoq.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_3_cdgvdb.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1734700970/orchid-nirvana-room3_ekl7j4.webp"
+        ]
       }
     },
     {
@@ -1036,24 +1054,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 343750, "percentage": 0,
-        "returnWithLockIn": 343750,
-        "percentageWithLockIn": 0 },
-        { "return": 457187, "percentage": 133,
-        "returnWithLockIn": 457187,
-        "percentageWithLockIn": 132 },
-        { "return": 570625, "percentage": 166,
-        "returnWithLockIn": 608059,
-        "percentageWithLockIn": 176 },
-        { "return": 684062, "percentage": 199,
-        "returnWithLockIn": 808718,
-        "percentageWithLockIn": 232 },
-        { "return": 797500, "percentage": 232,
-        "returnWithLockIn": 1075596,
-        "percentageWithLockIn": 312 },
-        { "return": 910937, "percentage": 265,
-        "returnWithLockIn": 1430542,
-        "percentageWithLockIn": 416 }
+        {
+          "return": 343750,
+          "percentage": 0,
+          "returnWithLockIn": 343750,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 457187,
+          "percentage": 133,
+          "returnWithLockIn": 457187,
+          "percentageWithLockIn": 132
+        },
+        {
+          "return": 570625,
+          "percentage": 166,
+          "returnWithLockIn": 608059,
+          "percentageWithLockIn": 176
+        },
+        {
+          "return": 684062,
+          "percentage": 199,
+          "returnWithLockIn": 808718,
+          "percentageWithLockIn": 232
+        },
+        {
+          "return": 797500,
+          "percentage": 232,
+          "returnWithLockIn": 1075596,
+          "percentageWithLockIn": 312
+        },
+        {
+          "return": 910937,
+          "percentage": 265,
+          "returnWithLockIn": 1430542,
+          "percentageWithLockIn": 416
+        }
       ],
       "highlights": [
         {
@@ -1410,24 +1446,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 1653120, "percentage": 0,
-        "returnWithLockIn": 1653120,
-        "percentageWithLockIn": 0 },
-        { "return": 2132524, "percentage": 129,
-        "returnWithLockIn": 2132524,
-        "percentageWithLockIn": 129 },
-        { "return": 2611929, "percentage": 158,
-        "returnWithLockIn": 2750956,
-        "percentageWithLockIn": 166 },
-        { "return": 3091335, "percentage": 187,
-        "returnWithLockIn": 3548734,
-        "percentageWithLockIn": 214 },
-        { "return": 3570739, "percentage": 216,
-        "returnWithLockIn": 4577867,
-        "percentageWithLockIn": 276 },
-        { "return": 4050144, "percentage": 245,
-        "returnWithLockIn": 5905449,
-        "percentageWithLockIn": 357 }
+        {
+          "return": 1653120,
+          "percentage": 0,
+          "returnWithLockIn": 1653120,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 2132524,
+          "percentage": 129,
+          "returnWithLockIn": 2132524,
+          "percentageWithLockIn": 129
+        },
+        {
+          "return": 2611929,
+          "percentage": 158,
+          "returnWithLockIn": 2750956,
+          "percentageWithLockIn": 166
+        },
+        {
+          "return": 3091335,
+          "percentage": 187,
+          "returnWithLockIn": 3548734,
+          "percentageWithLockIn": 214
+        },
+        {
+          "return": 3570739,
+          "percentage": 216,
+          "returnWithLockIn": 4577867,
+          "percentageWithLockIn": 276
+        },
+        {
+          "return": 4050144,
+          "percentage": 245,
+          "returnWithLockIn": 5905449,
+          "percentageWithLockIn": 357
+        }
       ],
       "highlights": [
         {
@@ -1579,24 +1633,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 360000, "percentage": 0,
-        "returnWithLockIn": 0,
-        "percentageWithLockIn": 0 },
-        { "return": 464400, "percentage": 129,
-        "returnWithLockIn": 464400,
-        "percentageWithLockIn": 129 },
-        { "return": 568800, "percentage": 158,
-        "returnWithLockIn": 599076,
-        "percentageWithLockIn": 166 },
-        { "return": 673200, "percentage": 187,
-        "returnWithLockIn": 772808,
-        "percentageWithLockIn": 214 },
-        { "return": 777600, "percentage": 216,
-        "returnWithLockIn": 996922,
-        "percentageWithLockIn": 276 },
-        { "return": 882000, "percentage": 245,
-        "returnWithLockIn": 1286029,
-        "percentageWithLockIn": 357 }
+        {
+          "return": 360000,
+          "percentage": 0,
+          "returnWithLockIn": 0,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 464400,
+          "percentage": 129,
+          "returnWithLockIn": 464400,
+          "percentageWithLockIn": 129
+        },
+        {
+          "return": 568800,
+          "percentage": 158,
+          "returnWithLockIn": 599076,
+          "percentageWithLockIn": 166
+        },
+        {
+          "return": 673200,
+          "percentage": 187,
+          "returnWithLockIn": 772808,
+          "percentageWithLockIn": 214
+        },
+        {
+          "return": 777600,
+          "percentage": 216,
+          "returnWithLockIn": 996922,
+          "percentageWithLockIn": 276
+        },
+        {
+          "return": 882000,
+          "percentage": 245,
+          "returnWithLockIn": 1286029,
+          "percentageWithLockIn": 357
+        }
       ],
       "highlights": [
         {
@@ -1954,24 +2026,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 400000, "percentage": 0,
-        "returnWithLockIn": 400000,
-        "percentageWithLockIn": 0 },
-        { "return": 528000, "percentage": 132,
-        "returnWithLockIn": 528000,
-        "percentageWithLockIn": 132 },
-        { "return": 656000, "percentage": 164,
-        "returnWithLockIn": 696960,
-        "percentageWithLockIn": 174 },
-        { "return": 784000, "percentage": 196,
-        "returnWithLockIn": 919987,
-        "percentageWithLockIn": 130 },
-        { "return": 912000, "percentage": 228,
-        "returnWithLockIn": 1214383,
-        "percentageWithLockIn": 303 },
-        { "return": 1040000, "percentage": 260,
-        "returnWithLockIn": 1602985,
-        "percentageWithLockIn": 400 }
+        {
+          "return": 400000,
+          "percentage": 0,
+          "returnWithLockIn": 400000,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 528000,
+          "percentage": 132,
+          "returnWithLockIn": 528000,
+          "percentageWithLockIn": 132
+        },
+        {
+          "return": 656000,
+          "percentage": 164,
+          "returnWithLockIn": 696960,
+          "percentageWithLockIn": 174
+        },
+        {
+          "return": 784000,
+          "percentage": 196,
+          "returnWithLockIn": 919987,
+          "percentageWithLockIn": 130
+        },
+        {
+          "return": 912000,
+          "percentage": 228,
+          "returnWithLockIn": 1214383,
+          "percentageWithLockIn": 303
+        },
+        {
+          "return": 1040000,
+          "percentage": 260,
+          "returnWithLockIn": 1602985,
+          "percentageWithLockIn": 400
+        }
       ],
       "highlights": [
         {
@@ -2407,24 +2497,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 1690000, "percentage": 0,
-        "returnWithLockIn": 1690000,
-        "percentageWithLockIn": 0 },
-        { "return": 2163200, "percentage": 128,
-        "returnWithLockIn": 2163200,
-        "percentageWithLockIn": 128 },
-        { "return": 2636400, "percentage": 156,
-        "returnWithLockIn": 2768896,
-        "percentageWithLockIn": 163 },
-        { "return": 3109600, "percentage": 185,
-        "returnWithLockIn": 3544186,
-        "percentageWithLockIn": 209 },
-        { "return": 3582800, "percentage": 213,
-        "returnWithLockIn": 4536559,
-        "percentageWithLockIn": 268 },
-        { "return": 4056000, "percentage": 241,
-        "returnWithLockIn": 5806795,
-        "percentageWithLockIn": 343 }
+        {
+          "return": 1690000,
+          "percentage": 0,
+          "returnWithLockIn": 1690000,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 2163200,
+          "percentage": 128,
+          "returnWithLockIn": 2163200,
+          "percentageWithLockIn": 128
+        },
+        {
+          "return": 2636400,
+          "percentage": 156,
+          "returnWithLockIn": 2768896,
+          "percentageWithLockIn": 163
+        },
+        {
+          "return": 3109600,
+          "percentage": 185,
+          "returnWithLockIn": 3544186,
+          "percentageWithLockIn": 209
+        },
+        {
+          "return": 3582800,
+          "percentage": 213,
+          "returnWithLockIn": 4536559,
+          "percentageWithLockIn": 268
+        },
+        {
+          "return": 4056000,
+          "percentage": 241,
+          "returnWithLockIn": 5806795,
+          "percentageWithLockIn": 343
+        }
       ],
       "highlights": [
         {
@@ -2812,24 +2920,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 486290, "percentage": 0,
-        "returnWithLockIn": 486290,
-        "percentageWithLockIn": 0 },
-        { "return": 637039, "percentage": 131,
-        "returnWithLockIn": 637039,
-        "percentageWithLockIn": 131 },
-        { "return": 787790, "percentage": 161,
-        "returnWithLockIn": 834522,
-        "percentageWithLockIn": 171 },
-        { "return": 938540, "percentage": 193,
-        "returnWithLockIn": 1093224,
-        "percentageWithLockIn": 224 },
-        { "return": 1089290, "percentage": 224,
-        "returnWithLockIn": 1432123,
-        "percentageWithLockIn": 294 },
-        { "return": 1240039, "percentage": 255,
-        "returnWithLockIn": 1876082,
-        "percentageWithLockIn": 385 }
+        {
+          "return": 486290,
+          "percentage": 0,
+          "returnWithLockIn": 486290,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 637039,
+          "percentage": 131,
+          "returnWithLockIn": 637039,
+          "percentageWithLockIn": 131
+        },
+        {
+          "return": 787790,
+          "percentage": 161,
+          "returnWithLockIn": 834522,
+          "percentageWithLockIn": 171
+        },
+        {
+          "return": 938540,
+          "percentage": 193,
+          "returnWithLockIn": 1093224,
+          "percentageWithLockIn": 224
+        },
+        {
+          "return": 1089290,
+          "percentage": 224,
+          "returnWithLockIn": 1432123,
+          "percentageWithLockIn": 294
+        },
+        {
+          "return": 1240039,
+          "percentage": 255,
+          "returnWithLockIn": 1876082,
+          "percentageWithLockIn": 385
+        }
       ],
       "highlights": [
         {
@@ -3362,24 +3488,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 498910, "percentage": 0,
-        "returnWithLockIn": 498910,
-        "percentageWithLockIn": 0 },
-        { "return": 648583, "percentage": 130,
-        "returnWithLockIn": 648583,
-        "percentageWithLockIn": 130 },
-        { "return": 798256, "percentage": 160,
-        "returnWithLockIn": 843157,
-        "percentageWithLockIn": 169 },
-        { "return": 947929, "percentage": 190,
-        "returnWithLockIn": 1096105,
-        "percentageWithLockIn": 219 },
-        { "return": 1097542, "percentage": 219,
-        "returnWithLockIn": 1424936,
-        "percentageWithLockIn": 285 },
-        { "return": 1247275, "percentage": 250,
-        "returnWithLockIn": 1852417,
-        "percentageWithLockIn": 371 }
+        {
+          "return": 498910,
+          "percentage": 0,
+          "returnWithLockIn": 498910,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 648583,
+          "percentage": 130,
+          "returnWithLockIn": 648583,
+          "percentageWithLockIn": 130
+        },
+        {
+          "return": 798256,
+          "percentage": 160,
+          "returnWithLockIn": 843157,
+          "percentageWithLockIn": 169
+        },
+        {
+          "return": 947929,
+          "percentage": 190,
+          "returnWithLockIn": 1096105,
+          "percentageWithLockIn": 219
+        },
+        {
+          "return": 1097542,
+          "percentage": 219,
+          "returnWithLockIn": 1424936,
+          "percentageWithLockIn": 285
+        },
+        {
+          "return": 1247275,
+          "percentage": 250,
+          "returnWithLockIn": 1852417,
+          "percentageWithLockIn": 371
+        }
       ],
       "highlights": [
         {
@@ -3561,35 +3705,53 @@
       "cityIcon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727012934/mum_n0db2d.png",
       "cancelationPolicy": "If it is more than 14 days before your check-in date: you can freely move your stay, or receive Spacez credits of the full value of your trip which you can spend on any future stay at any Spacez property. If it is less than 14 days before your check-in date: you can no longer move your trip. We will re-list your dates and attempt to re-book them. If we are successful, you will receive Spacez credit for whatever dates we are able to re-book. We allow you to re-sell or gift your dates if you have a colleague or friend who can make them. In this case, just let Concierge know their name and email. By booking, you agree and understand Spacez does not give refunds, only credits under the stated conditions.",
       "link": "https://www.airbnb.co.in/rooms/1195814498386244533?source_impression_id=p3_1723022713_P3VQzcVuVX-DI5S3",
-      "costPerSlot": 554595,
+      "costPerSlot": 479595,
       "setupCost": 1000000,
       "totalSlots": 4,
       "availableSlots": 0,
       "ownerDeposit": 775000,
       "expectedReturns": "31%",
       "occupancyRate": "80%",
-      "isInvestmentAvailable": false,
+      "isInvestmentAvailable": true,
       "facilitationCost": 15000,
       "leasedDuration": "5 years",
       "returnsData": [
-        { "return": 498910, "percentage": 0,
-        "returnWithLockIn": 498910,
-        "percentageWithLockIn": 0 },
-        { "return": 726519, "percentage": 131,
-        "returnWithLockIn": 726519,
-        "percentageWithLockIn": 131 },
-        { "return": 898443, "percentage": 162,
-        "returnWithLockIn": 951740,
-        "percentageWithLockIn": 171 },
-        { "return": 1070368, "percentage": 193,
-        "returnWithLockIn": 1246780,
-        "percentageWithLockIn": 224 },
-        { "return": 1242292, "percentage": 224,
-        "returnWithLockIn": 1633281,
-        "percentageWithLockIn": 294 },
-        { "return": 1414217, "percentage": 255,
-        "returnWithLockIn": 2139599,
-        "percentageWithLockIn": 385 }
+        {
+          "return": 498910,
+          "percentage": 0,
+          "returnWithLockIn": 498910,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 726519,
+          "percentage": 131,
+          "returnWithLockIn": 726519,
+          "percentageWithLockIn": 131
+        },
+        {
+          "return": 898443,
+          "percentage": 162,
+          "returnWithLockIn": 951740,
+          "percentageWithLockIn": 171
+        },
+        {
+          "return": 1070368,
+          "percentage": 193,
+          "returnWithLockIn": 1246780,
+          "percentageWithLockIn": 224
+        },
+        {
+          "return": 1242292,
+          "percentage": 224,
+          "returnWithLockIn": 1633281,
+          "percentageWithLockIn": 294
+        },
+        {
+          "return": 1414217,
+          "percentage": 255,
+          "returnWithLockIn": 2139599,
+          "percentageWithLockIn": 385
+        }
       ],
       "highlights": [
         {
@@ -3751,24 +3913,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 355000, "percentage": 0,
-        "returnWithLockIn": 355000,
-        "percentageWithLockIn": 0 },
-        { "return": 447300, "percentage": 126,
-        "returnWithLockIn": 447300,
-        "percentageWithLockIn": 126 },
-        { "return": 539600, "percentage": 152,
-        "returnWithLockIn": 563598,
-        "percentageWithLockIn": 158 },
-        { "return": 631900, "percentage": 178,
-        "returnWithLockIn": 710133,
-        "percentageWithLockIn": 200 },
-        { "return": 724200, "percentage": 204,
-        "returnWithLockIn": 894768,
-        "percentageWithLockIn": 252 },
-        { "return": 816500, "percentage": 230,
-        "returnWithLockIn": 1127407,
-        "percentageWithLockIn": 317 }
+        {
+          "return": 355000,
+          "percentage": 0,
+          "returnWithLockIn": 355000,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 447300,
+          "percentage": 126,
+          "returnWithLockIn": 447300,
+          "percentageWithLockIn": 126
+        },
+        {
+          "return": 539600,
+          "percentage": 152,
+          "returnWithLockIn": 563598,
+          "percentageWithLockIn": 158
+        },
+        {
+          "return": 631900,
+          "percentage": 178,
+          "returnWithLockIn": 710133,
+          "percentageWithLockIn": 200
+        },
+        {
+          "return": 724200,
+          "percentage": 204,
+          "returnWithLockIn": 894768,
+          "percentageWithLockIn": 252
+        },
+        {
+          "return": 816500,
+          "percentage": 230,
+          "returnWithLockIn": 1127407,
+          "percentageWithLockIn": 317
+        }
       ],
       "highlights": [
         {
@@ -3982,24 +4162,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 275410, "percentage": 0,
-        "returnWithLockIn": 275410,
-        "percentageWithLockIn": 0 },
-        { "return": 347016, "percentage": 126,
-        "returnWithLockIn": 347016,
-        "percentageWithLockIn": 126 },
-        { "return": 418623, "percentage": 152,
-        "returnWithLockIn": 437240,
-        "percentageWithLockIn": 158 },
-        { "return": 490229, "percentage": 178,
-        "returnWithLockIn": 550923,
-        "percentageWithLockIn": 200 },
-        { "return": 561836, "percentage": 204,
-        "returnWithLockIn": 694163,
-        "percentageWithLockIn": 252 },
-        { "return": 633443, "percentage": 230,
-        "returnWithLockIn": 874646,
-        "percentageWithLockIn": 317 }
+        {
+          "return": 275410,
+          "percentage": 0,
+          "returnWithLockIn": 275410,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 347016,
+          "percentage": 126,
+          "returnWithLockIn": 347016,
+          "percentageWithLockIn": 126
+        },
+        {
+          "return": 418623,
+          "percentage": 152,
+          "returnWithLockIn": 437240,
+          "percentageWithLockIn": 158
+        },
+        {
+          "return": 490229,
+          "percentage": 178,
+          "returnWithLockIn": 550923,
+          "percentageWithLockIn": 200
+        },
+        {
+          "return": 561836,
+          "percentage": 204,
+          "returnWithLockIn": 694163,
+          "percentageWithLockIn": 252
+        },
+        {
+          "return": 633443,
+          "percentage": 230,
+          "returnWithLockIn": 874646,
+          "percentageWithLockIn": 317
+        }
       ],
 
       "highlights": [
@@ -4169,24 +4367,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 302660, "percentage": 0,
-        "returnWithLockIn": 302660,
-        "percentageWithLockIn": 0 },
-        { "return": 387404, "percentage": 128,
-        "returnWithLockIn": 387404,
-        "percentageWithLockIn": 156 },
-        { "return": 472149, "percentage": 156,
-        "returnWithLockIn": 495878,
-        "percentageWithLockIn": 163 },
-        { "return": 556894, "percentage": 184,
-        "returnWithLockIn": 634724,
-        "percentageWithLockIn": 209 },
-        { "return": 641639, "percentage": 212,
-        "returnWithLockIn": 812446,
-        "percentageWithLockIn": 268 },
-        { "return": 726384, "percentage": 240,
-        "returnWithLockIn": 1039931,
-        "percentageWithLockIn": 343 }
+        {
+          "return": 302660,
+          "percentage": 0,
+          "returnWithLockIn": 302660,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 387404,
+          "percentage": 128,
+          "returnWithLockIn": 387404,
+          "percentageWithLockIn": 156
+        },
+        {
+          "return": 472149,
+          "percentage": 156,
+          "returnWithLockIn": 495878,
+          "percentageWithLockIn": 163
+        },
+        {
+          "return": 556894,
+          "percentage": 184,
+          "returnWithLockIn": 634724,
+          "percentageWithLockIn": 209
+        },
+        {
+          "return": 641639,
+          "percentage": 212,
+          "returnWithLockIn": 812446,
+          "percentageWithLockIn": 268
+        },
+        {
+          "return": 726384,
+          "percentage": 240,
+          "returnWithLockIn": 1039931,
+          "percentageWithLockIn": 343
+        }
       ],
       "highlights": [
         {
@@ -4400,24 +4616,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 490863, "percentage": 0,
-        "returnWithLockIn": 490863,
-        "percentageWithLockIn": 0 },
-        { "return": 618487, "percentage": 126,
-        "returnWithLockIn": 618487,
-        "percentageWithLockIn": 126 },
-        { "return": 746111, "percentage": 152,
-        "returnWithLockIn": 779294,
-        "percentageWithLockIn": 158 },
-        { "return": 873736, "percentage": 178,
-        "returnWithLockIn": 981910,
-        "percentageWithLockIn": 200 },
-        { "return": 1001360, "percentage": 204,
-        "returnWithLockIn": 1237207,
-        "percentageWithLockIn": 152 },
-        { "return": 1128984, "percentage": 230,
-        "returnWithLockIn": 1558881,
-        "percentageWithLockIn": 317 }
+        {
+          "return": 490863,
+          "percentage": 0,
+          "returnWithLockIn": 490863,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 618487,
+          "percentage": 126,
+          "returnWithLockIn": 618487,
+          "percentageWithLockIn": 126
+        },
+        {
+          "return": 746111,
+          "percentage": 152,
+          "returnWithLockIn": 779294,
+          "percentageWithLockIn": 158
+        },
+        {
+          "return": 873736,
+          "percentage": 178,
+          "returnWithLockIn": 981910,
+          "percentageWithLockIn": 200
+        },
+        {
+          "return": 1001360,
+          "percentage": 204,
+          "returnWithLockIn": 1237207,
+          "percentageWithLockIn": 152
+        },
+        {
+          "return": 1128984,
+          "percentage": 230,
+          "returnWithLockIn": 1558881,
+          "percentageWithLockIn": 317
+        }
       ],
       "highlights": [
         {
@@ -4625,24 +4859,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 509364, "percentage": 0,
-        "returnWithLockIn": 509364,
-        "percentageWithLockIn": 0 },
-        { "return": 672360, "percentage": 132,
-        "returnWithLockIn": 672360,
-        "percentageWithLockIn": 132 },
-        { "return": 835356, "percentage": 164,
-        "returnWithLockIn": 887515,
-        "percentageWithLockIn": 174 },
-        { "return": 998353, "percentage": 196,
-        "returnWithLockIn": 1171520,
-        "percentageWithLockIn": 230 },
-        { "return": 1161349, "percentage": 228,
-        "returnWithLockIn": 1546407,
-        "percentageWithLockIn": 303 },
-        { "return": 1324346, "percentage": 260,
-        "returnWithLockIn": 2041258,
-        "percentageWithLockIn": 400 }
+        {
+          "return": 509364,
+          "percentage": 0,
+          "returnWithLockIn": 509364,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 672360,
+          "percentage": 132,
+          "returnWithLockIn": 672360,
+          "percentageWithLockIn": 132
+        },
+        {
+          "return": 835356,
+          "percentage": 164,
+          "returnWithLockIn": 887515,
+          "percentageWithLockIn": 174
+        },
+        {
+          "return": 998353,
+          "percentage": 196,
+          "returnWithLockIn": 1171520,
+          "percentageWithLockIn": 230
+        },
+        {
+          "return": 1161349,
+          "percentage": 228,
+          "returnWithLockIn": 1546407,
+          "percentageWithLockIn": 303
+        },
+        {
+          "return": 1324346,
+          "percentage": 260,
+          "returnWithLockIn": 2041258,
+          "percentageWithLockIn": 400
+        }
       ],
       "highlights": [
         {
@@ -4783,24 +5035,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 498910, "percentage": 0,
-        "returnWithLockIn": 498910,
-        "percentageWithLockIn": 0 },
-        { "return": 648583, "percentage": 130,
-        "returnWithLockIn": 648583,
-        "percentageWithLockIn": 130 },
-        { "return": 798256, "percentage": 160,
-        "returnWithLockIn": 843157,
-        "percentageWithLockIn": 169 },
-        { "return": 947929, "percentage": 190,
-        "returnWithLockIn": 1096105,
-        "percentageWithLockIn": 219 },
-        { "return": 1097602, "percentage": 220,
-        "returnWithLockIn": 1424936,
-        "percentageWithLockIn": 285 },
-        { "return": 1247275, "percentage": 250,
-        "returnWithLockIn": 1852417,
-        "percentageWithLockIn": 371 }
+        {
+          "return": 498910,
+          "percentage": 0,
+          "returnWithLockIn": 498910,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 648583,
+          "percentage": 130,
+          "returnWithLockIn": 648583,
+          "percentageWithLockIn": 130
+        },
+        {
+          "return": 798256,
+          "percentage": 160,
+          "returnWithLockIn": 843157,
+          "percentageWithLockIn": 169
+        },
+        {
+          "return": 947929,
+          "percentage": 190,
+          "returnWithLockIn": 1096105,
+          "percentageWithLockIn": 219
+        },
+        {
+          "return": 1097602,
+          "percentage": 220,
+          "returnWithLockIn": 1424936,
+          "percentageWithLockIn": 285
+        },
+        {
+          "return": 1247275,
+          "percentage": 250,
+          "returnWithLockIn": 1852417,
+          "percentageWithLockIn": 371
+        }
       ],
       "highlights": [
         {
@@ -4980,7 +5250,7 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261933/Heritage_Haven-_Room4_5_c7lgtq.webp"
         ]
       }
-    },    
+    },
     {
       "id": "garden-glory",
       "propertyId": "GG0006",
@@ -5015,24 +5285,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 341410, "percentage": 0,
-        "returnWithLockIn": 341410,
-        "percentageWithLockIn": 0 },
-        { "return": 443833, "percentage": 130,
-        "returnWithLockIn": 443833,
-        "percentageWithLockIn": 130 },
-        { "return": 546256, "percentage": 160,
-        "returnWithLockIn": 576982,
-        "percentageWithLockIn": 169 },
-        { "return": 648679, "percentage": 190,
-        "returnWithLockIn": 750077,
-        "percentageWithLockIn": 219 },
-        { "return": 751102, "percentage": 210,
-        "returnWithLockIn": 975101,
-        "percentageWithLockIn": 285 },
-        { "return": 853525, "percentage": 240,
-        "returnWithLockIn": 1267631,
-        "percentageWithLockIn": 371 }
+        {
+          "return": 341410,
+          "percentage": 0,
+          "returnWithLockIn": 341410,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 443833,
+          "percentage": 130,
+          "returnWithLockIn": 443833,
+          "percentageWithLockIn": 130
+        },
+        {
+          "return": 546256,
+          "percentage": 160,
+          "returnWithLockIn": 576982,
+          "percentageWithLockIn": 169
+        },
+        {
+          "return": 648679,
+          "percentage": 190,
+          "returnWithLockIn": 750077,
+          "percentageWithLockIn": 219
+        },
+        {
+          "return": 751102,
+          "percentage": 210,
+          "returnWithLockIn": 975101,
+          "percentageWithLockIn": 285
+        },
+        {
+          "return": 853525,
+          "percentage": 240,
+          "returnWithLockIn": 1267631,
+          "percentageWithLockIn": 371
+        }
       ],
       "highlights": [
         {
@@ -5183,24 +5471,42 @@
       "facilitationCost": 15000,
       "leasedDuration": "3 years",
       "returnsData": [
-        { "return": 385660, "percentage": 0,
-        "returnWithLockIn": 385660,
-        "percentageWithLockIn": 0 },
-        { "return": 489788, "percentage": 127,
-        "returnWithLockIn": 489788,
-        "percentageWithLockIn": 127 },
-        { "return": 593916, "percentage": 154,
-        "returnWithLockIn": 622031,
-        "percentageWithLockIn": 161 },
-        { "return": 698044, "percentage": 181,
-        "returnWithLockIn": 789979,
-        "percentageWithLockIn": 204 },
-        { "return": 802172, "percentage": 208,
-        "returnWithLockIn": 1003273,
-        "percentageWithLockIn": 260 },
-        { "return": 906301, "percentage": 235,
-        "returnWithLockIn": 1274157,
-        "percentageWithLockIn": 330 }
+        {
+          "return": 385660,
+          "percentage": 0,
+          "returnWithLockIn": 385660,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 489788,
+          "percentage": 127,
+          "returnWithLockIn": 489788,
+          "percentageWithLockIn": 127
+        },
+        {
+          "return": 593916,
+          "percentage": 154,
+          "returnWithLockIn": 622031,
+          "percentageWithLockIn": 161
+        },
+        {
+          "return": 698044,
+          "percentage": 181,
+          "returnWithLockIn": 789979,
+          "percentageWithLockIn": 204
+        },
+        {
+          "return": 802172,
+          "percentage": 208,
+          "returnWithLockIn": 1003273,
+          "percentageWithLockIn": 260
+        },
+        {
+          "return": 906301,
+          "percentage": 235,
+          "returnWithLockIn": 1274157,
+          "percentageWithLockIn": 330
+        }
       ],
       "highlights": [
         {
