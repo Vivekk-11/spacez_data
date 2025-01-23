@@ -2048,7 +2048,7 @@
           "return": 784000,
           "percentage": 196,
           "returnWithLockIn": 919987,
-          "percentageWithLockIn": 130
+          "percentageWithLockIn": 220
         },
         {
           "return": 912000,
@@ -5697,6 +5697,279 @@
           "https://res.cloudinary.com/dz3tveb47/image/upload/v1727261962/Magnum_Opus-_Room5_19_wvwag3.webp"
         ]
       }
+    },
+    {
+      "aboutProperty": {
+        "description": "Welcome to Regal Sapphire, a peaceful retreat in the heart of the city. Designed for comfort and relaxation, this luxurious 5BHK villa offers spacious living areas, a greenery-covered terrace, and all the amenities you need for a perfect stay. Ideal for families, friends, or business gatherings, Regal Sapphire combines elegance and convenience in a tranquil setting.",
+        "pointers": [
+          {
+            "heading": "The Space",
+            "points": [
+              "5 Bedrooms: Five beautifully furnished bedrooms with modern interiors and comfortable beds, perfect for a restful stay.",
+              "Multiple Large Halls: Expansive and well-lit halls, ideal for relaxing, entertaining, or hosting intimate gatherings.",
+              "Greenery-Covered Terrace: A serene terrace with lush greenery and a cozy patio, perfect for enjoying fresh air and unwinding.",
+              "Fully Furnished: Every corner of the villa is thoughtfully designed and equipped with modern furnishings for a hassle-free stay.",
+              "Modern Conveniences: Stylish décor and upscale furniture throughout the villa, free Wi-Fi for uninterrupted connectivity, laundry facilities including a washing machine, dryer, and ironing setup, and private parking for multiple vehicles."
+            ]
+          },
+          {
+            "heading": "During Your Stay",
+            "points": [
+              "Exclusive Access: Full access to all parts of the villa, including bedrooms, halls, and the terrace.",
+              "In-House Chef Services: Personalized meal preparation by a professional chef, catering to your preferences.",
+              "Dedicated Caretaker: A friendly caretaker to ensure the villa remains spotless and assist with any needs during your stay."
+            ]
+          },
+          {
+            "heading": "Other Things to Note",
+            "points": [
+              "Prime Location: Centrally located, providing easy access to major city attractions, while maintaining a peaceful and private ambiance.",
+              "Perfect for Gatherings: Whether it’s a family vacation, a corporate retreat, or a small celebration, Regal Sapphire offers a luxurious space to create lasting memories.",
+              "We’d be delighted to host you at Regal Sapphire and ensure your stay is as exceptional as the villa itself. Let us know if there’s anything we can do to make your experience truly unforgettable!"
+            ]
+          }
+        ]
+      },
+      "address": "798, 8th B Main Road Koramangala Bengaluru Karnataka 560095",
+      "amenities": [
+        "bathtub",
+        "hair-dryer",
+        "cleaning-products",
+        "shampoo",
+        "conditioner",
+        "body-soap",
+        "bidet",
+        "hot-water",
+        "shower-gel",
+        "washing-machine",
+        "dryer",
+        "towels",
+        "bed-sheets",
+        "toilet-paper",
+        "bed-linen",
+        "extra-pillows",
+        "iron",
+        "drying-rack",
+        "hangers",
+        "mosquito-net",
+        "wardrobe",
+        "tv",
+        "board-games",
+        "wifi",
+        "fire-extinguisher",
+        "security-camera",
+        "first-aid-kit",
+        "refrigerator",
+        "microwave",
+        "air-conditioning",
+        "free-parking",
+        "balcony",
+        "garden"
+      ],
+      "areaName": "koramangala",
+      "baseOccupancy": 10,
+      "cancelationPolicy": "Free cancellation within 48 hours.",
+      "city": "Bengaluru",
+      "commonImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274907/regal-sapphire-first-living-room_4_uoahyv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274934/regal-sapphire-second-living-room_wfxbt0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_1_giz8zc.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274925/regal-sapphire-entrance_8_wmeexu.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274935/regal-sapphire-fourth-bedroom_5_lybpbr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274938/regal-sapphire-fourth-bedroom_2_r7tyku.webp"
+      ],
+      "description": "Welcome to Regal Sapphire, a peaceful retreat in the heart of the city. Designed for comfort and relaxation, this luxurious 5BHK villa offers spacious living areas, a greenery-covered terrace, and all the amenities you need for a perfect stay. Ideal for families, friends, or business gatherings, Regal Sapphire combines elegance and convenience in a tranquil setting.",
+      "heroImages": [
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274907/regal-sapphire-first-living-room_4_uoahyv.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274934/regal-sapphire-second-living-room_wfxbt0.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_1_giz8zc.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274925/regal-sapphire-entrance_8_wmeexu.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274935/regal-sapphire-fourth-bedroom_5_lybpbr.webp",
+        "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274938/regal-sapphire-fourth-bedroom_2_r7tyku.webp"
+      ],
+      "houseRules": [
+        "check-in",
+        "check-out",
+        "self-check-in",
+        "12-guests-maximum",
+        "pets-allowed",
+        "commercial-photography-allowed"
+      ],
+      "id": "regal-sapphire",
+      "imageType": [],
+      "isActive": true,
+      "lat": 12.931994294167042,
+      "listingImage": "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274907/regal-sapphire-first-living-room_4_uoahyv.webp",
+      "lng": 77.63156202962925,
+      "location": "koramangala, bengaluru",
+      "locationDescription": "Centrally located with easy access to local attractions, shopping, and dining hotspots, nestled in a peaceful neighborhood.",
+      "mainDescription": "Welcome to Regal Sapphire, a peaceful retreat in the heart of the city. Designed for comfort and relaxation, this luxurious 5BHK villa offers spacious living areas, a greenery-covered terrace, and all the amenities you need for a perfect stay. Ideal for families, friends, or business gatherings, Regal Sapphire combines elegance and convenience in a tranquil setting.",
+      "name": "Regal Sapphire",
+      "noOfBathrooms": 5,
+      "noOfBedrooms": 5,
+      "noOfBeds": 5,
+      "noOfGuests": 16,
+      "photos": {
+        "Dining Area": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274919/regal-sapphire-dining-room_q77ktc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274918/regal-sapphire-dining-room_4_nrnjsj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274918/regal-sapphire-dining-room_2_xocm1g.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274917/regal-sapphire-dining-room_3_s23mu6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274916/regal-sapphire-dining-room_1_it2j8q.webp"
+        ],
+        "Entrance": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274930/regal-sapphire-entrance_6_rtvcim.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274930/regal-sapphire-entrance_2_ndyvhn.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274929/regal-sapphire-entrance_7_wbmy34.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274929/regal-sapphire-entrance_3_lwbdnr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274928/regal-sapphire-entrance_5_z3m7sj.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274928/regal-sapphire-entrance_4_t0ht7k.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274927/regal-sapphire-entrance_1_lcpqzf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274927/regal-sapphire-entrance_rnacdp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274926/regal-sapphire-entrance_9_gbrdpd.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274925/regal-sapphire-entrance_8_wmeexu.webp"
+        ],
+        "Fifth Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274925/regal-sapphire-fifth-bedroom_7_boggkm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274925/regal-sapphire-fifth-bedroom_6_j9gvzv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274923/regal-sapphire-fifth-bedroom_8_t8nx41.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274923/regal-sapphire-fifth-bedroom_9_cy3dqe.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274923/regal-sapphire-fifth-bedroom_1_vruwz3.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274922/regal-sapphire-fifth-bedroom_4_jqygl5.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274921/regal-sapphire-fifth-bedroom_5_mwqyvd.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274921/regal-sapphire-fifth-bedroom_cynoxm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274920/regal-sapphire-fifth-bedroom_2_idkzug.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274920/regal-sapphire-fifth-bedroom_3_fluefp.webp"
+        ],
+        "First Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274912/regal-sapphire-first-bedroom_4_cnaxcr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274912/regal-sapphire-first-bedroom_2_kkxjxf.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274911/regal-sapphire-first-bedroom_uljkri.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274911/regal-sapphire-first-bedroom_3_zksedi.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274910/regal-sapphire-first-bedroom_5_frwpid.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274909/regal-sapphire-first-bedroom_1_s8wopc.webp"
+        ],
+        "First Living room": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274909/regal-sapphire-first-living-room_1_sjngiu.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274909/regal-sapphire-first-living-room_2_xzyd1d.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274908/regal-sapphire-first-living-room_3_pmbmbx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274907/regal-sapphire-first-living-room_4_uoahyv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274906/regal-sapphire-first-living-room_nhvqqp.webp"
+        ],
+        "Fourth Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274938/regal-sapphire-fourth-bedroom_2_r7tyku.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274937/regal-sapphire-fourth-bedroom_1_wjagab.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274936/regal-sapphire-fourth-bedroom_hq6bnv.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274936/regal-sapphire-fourth-bedroom_3_lq72ne.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274936/regal-sapphire-fourth-bedroom_4_eclk4u.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274935/regal-sapphire-fourth-bedroom_5_lybpbr.webp"
+        ],
+        "Second Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274916/regal-sapphire-second-bedroom_5_gkaegs.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274916/regal-sapphire-second-bedroom_4_fvtenx.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274915/regal-sapphire-second-bedroom_6_jupezt.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274915/regal-sapphire-second-bedroom_2_qtz0lk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274914/regal-sapphire-second-bedroom_h0lr5z.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274913/regal-sapphire-second-bedroom_3_yuqqve.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274913/regal-sapphire-second-bedroom_1_on4lcg.webp"
+        ],
+        "Second Living room": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274934/regal-sapphire-second-living-room_wfxbt0.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274934/regal-sapphire-second-living-room_4_vowisz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274933/regal-sapphire-second-living-room_3_ie5um9.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274933/regal-sapphire-second-living-room_6_kqe7zo.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274932/regal-sapphire-second-living-room_5_yqlumz.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274932/regal-sapphire-second-living-room_1_fmryxk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274931/regal-sapphire-second-living-room_2_wqmfv3.webp"
+        ],
+        "Third Bedroom": [
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274905/regal-sapphire-third-bedroom_2_s5d0hp.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274905/regal-sapphire-third-bedroom_4_lnzyxm.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274905/regal-sapphire-third-bedroom_lsblnr.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_1_giz8zc.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_5_lxyaav.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_3_m6vcy6.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274904/regal-sapphire-third-bedroom_6_kshyhk.webp",
+          "https://res.cloudinary.com/dz3tveb47/image/upload/v1735274903/regal-sapphire-third-bedroom_7_sgayvm.webp"
+        ],
+        "roomOrder": [
+          "Entrance",
+          "First Living Room",
+          "Second Living room",
+          "Dining Area",
+          "First Bedroom",
+          "Second Bedroom",
+          "Third Bedroom",
+          "Fourth Bedroom",
+          "Fifth Bedroom"
+        ]
+      },
+      "price": "17800",
+      "propertyId": "RSR006",
+      "rating": 5,
+      "costPerSlot": 421660,
+      "setupCost": 700000,
+      "totalSlots": 4,
+      "availableSlots": 1,
+      "ownerDeposit": 525000,
+      "expectedReturns": "27%",
+      "occupancyRate": "85%",
+      "isInvestmentAvailable": true,
+      "facilitationCost": 15000,
+      "leasedDuration": "3 years",
+      "returnsData": [
+        {
+          "return": 421660,
+          "percentage": 0,
+          "returnWithLockIn": 421660,
+          "percentageWithLockIn": 0
+        },
+        {
+          "return": 528000,
+          "percentage": 132,
+          "returnWithLockIn": 528000,
+          "percentageWithLockIn": 132
+        },
+        {
+          "return": 656000,
+          "percentage": 164,
+          "returnWithLockIn": 696960,
+          "percentageWithLockIn": 174
+        },
+        {
+          "return": 784000,
+          "percentage": 196,
+          "returnWithLockIn": 919987,
+          "percentageWithLockIn": 220
+        },
+        {
+          "return": 912000,
+          "percentage": 228,
+          "returnWithLockIn": 1214383,
+          "percentageWithLockIn": 303
+        },
+        {
+          "return": 1040000,
+          "percentage": 260,
+          "returnWithLockIn": 1602985,
+          "percentageWithLockIn": 400
+        }
+      ],
+      "thingsToDo": [
+        {
+          "description": "A scenic hiking trail nearby",
+          "distance": "10 km",
+          "name": "Hiking",
+          "url": "https://cdn.prod.website-files.com/61549f9352f3558157a226ea/61eabcdcf266e3da4c47fc9e_Best-Places-To-Hike-In-California.jpg"
+        },
+        {
+          "description": "Hop through the best cafes of the area",
+          "distance": "1 km",
+          "name": "Cafe Hoping",
+          "url": "https://res.cloudinary.com/dz3tveb47/image/upload/v1727433849/spacez%20app/dzcdmbwqfjlioqrx536q.png"
+        }
+      ],
+      "type": "Villa"
     }
   ],
   "propertyLocations": [
