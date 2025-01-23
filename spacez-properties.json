@@ -5904,6 +5904,38 @@
           "Fifth Bedroom"
         ]
       },
+      "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Lavish 5-bedroom villa designed to offer the pinnacle of luxury.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Vast 2800 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "Private theatre for exclusive entertainment, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
+        },
+        {
+          "title": "Facilities",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "In a prime location of brookefield near the BEML Layout",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹8 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
       "price": "17800",
       "propertyId": "RSR006",
       "rating": 5,
